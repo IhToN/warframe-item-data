@@ -1,8 +1,6 @@
 # Warframe Item Data
 
-[![Supported by Warframe Community Developers](https://raw.githubusercontent.com/WFCD/banner/master/banner.png)](https://github.com/WFCD "Supported by Warframe Community Developers")
-
-A repository of Warframe data for use with warframe-worldstate-parser
+A repository of Warframe Items Data
 
 ## Usage
 
