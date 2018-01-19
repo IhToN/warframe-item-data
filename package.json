@@ -1,0 +1,31 @@
+{
+  "name": "warframe-item-data",
+  "version": "0.0.1",
+  "description": "Warframe item data",
+  "main": "exports.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sort_lang" : "python tools/sort_languages.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhToN/warframe-item-data.git"
+  },
+  "keywords": [
+    "warframe-item",
+    "warframe-data",
+    "javascript",
+    "warframe"
+  ],
+  "author": "IhToN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IhToN/warframe-item-data/issues"
+  },
+  "homepage": "https://github.com/IhToN/warframe-item-data#readme"
+}

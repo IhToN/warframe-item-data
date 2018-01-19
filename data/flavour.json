@@ -1,0 +1,2251 @@
+{
+    "ExportFlavour": [
+        {
+            "codexSecret": true,
+            "description": "This item lets you use VOLT's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "VOLT NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/UnlockVoltNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use VOLT's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "VOLT AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/UnlockVoltAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use TRINITY's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "TRINITY NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/UnlockTrinityNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use TRINITY's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "TRINITY AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/UnlockTrinityAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use VAUBAN's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "VAUBAN NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trapper/UnlockTrapperNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use VAUBAN's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "VAUBAN AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trapper/UnlockTrapperAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use ZEPHYR's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "ZEPHYR NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Tengu/UnlockTenguNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use ZEPHYR's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "ZEPHYR AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Tengu/UnlockTenguAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use RHINO's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "RHINO NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/UnlockRhinoNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use RHINO's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "RHINO AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/UnlockRhinoAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use OBERON's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "OBERON NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Paladin/UnlockPaladinNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use OBERON's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "OBERON AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Paladin/UnlockPaladinAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use ASH's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "ASH NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ninja/UnlockNinjaNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use ASH's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "ASH AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ninja/UnlockNinjaAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use NEKROS' noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "NEKROS NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Necro/UnlockNecroNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use NEKROS' agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "NEKROS AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Necro/UnlockNecroAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use LIMBO's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "LIMBO NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Magician/UnlockMagicianNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use LIMBO's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "LIMBO AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Magician/UnlockMagicianAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use MAG's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "MAG NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/UnlockMagNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use MAG's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "MAG AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/UnlockMagAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use LOKI's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "LOKI NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Loki/UnlockLokiNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use LOKI's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "LOKI AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Loki/UnlockLokiAgile"
+        },
+        {
+            "codexSecret": false,
+            "description": "A customized exterior for your Liset.",
+            "longDescription": "",
+            "name": "LISET PRISMA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinVoidTrader"
+        },
+        {
+            "codexSecret": false,
+            "description": "Explore the system in the style of the Orokin.",
+            "longDescription": "",
+            "name": "LISET PRIME SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinPrime"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Liset landing craft.",
+            "longDescription": "",
+            "name": "LISET DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinHalloween"
+        },
+        {
+            "codexSecret": false,
+            "description": "A Kuva themed skin for your landing craft",
+            "longDescription": "",
+            "name": "LISET KUVA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinGrineerQueens"
+        },
+        {
+            "codexSecret": false,
+            "description": "A customized exterior for your Liset.",
+            "longDescription": "",
+            "name": "LISET ZIKHA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinFlavourItemD"
+        },
+        {
+            "codexSecret": false,
+            "description": "A customized exterior for your Liset.",
+            "longDescription": "",
+            "name": "LISET KUZA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinFlavourItemC"
+        },
+        {
+            "codexSecret": false,
+            "description": "A customized exterior for your Liset.",
+            "longDescription": "",
+            "name": "LISET HIMA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinFlavourItemB"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Mantis landing craft.",
+            "longDescription": "",
+            "name": "MANTIS DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetInsectSkinHalloween"
+        },
+        {
+            "codexSecret": false,
+            "description": "A Kuva themed skin for your landing craft",
+            "longDescription": "",
+            "name": "MANTIS KUVA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetInsectSkinGrineerQueens"
+        },
+        {
+            "codexSecret": false,
+            "description": "A Kuva themed skin for your landing craft",
+            "longDescription": "",
+            "name": "SCIMITAR KUVA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetBlueSkySkinGrineerQueens"
+        },
+        {
+            "codexSecret": false,
+            "description": "A Kuva themed skin for your landing craft",
+            "longDescription": "",
+            "name": "XIPHOS KUVA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/Gyroscope/LisetGyroscopeGrineerQueens"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use NYX's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "NYX NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/UnlockJadeNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use NYX's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "NYX AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/UnlockJadeAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use HYDROID's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "HYDROID NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Hydroid/UnlockHydroidNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use HYDROID's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "HYDROID AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Hydroid/UnlockHydroidAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use MIRAGE's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "MIRAGE NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/UnlockHarlequinNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use MIRAGE's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "MIRAGE AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/UnlockHarlequinAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use FROST's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "FROST NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/UnlockFrostNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use FROST's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "FROST AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/UnlockFrostAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use EXCALIBUR's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "EXCALIBUR NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/UnlockExcaliburNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use EXCALIBUR's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "EXCALIBUR AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/UnlockExcaliburAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use EMBER's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "EMBER NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ember/UnlockEmberNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use EMBER's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "EMBER AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ember/UnlockEmberAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use CHROMA's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "CHROMA NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dragon/UnlockChromaNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use CHROMA's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "CHROMA AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dragon/UnlockChromaAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use BANSHEE's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "BANSHEE NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/UnlockDecreeNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use BANSHEE's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "BANSHEE AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/UnlockDecreeAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use MESA's noble animation set with any Warframe of your choosing.",
+            "longDescription": "",
+            "name": "MESA NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/UnlockCowgirlNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use MESA's agile animation set with any Warframe of your choosing.",
+            "longDescription": "",
+            "name": "MESA AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/UnlockCowgirlAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use VALKYR's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "VALKYR NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Berserker/UnlockBerserkerNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use VALKYR's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "VALKYR AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Berserker/UnlockBerserkerAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use SARYN's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "SARYN NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Asp/UnlockAspNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use SARYN's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "SARYN AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Asp/UnlockAspAgile"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use NOVA's noble animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "NOVA NOBLE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/UnlockAntiMatterNoble"
+        },
+        {
+            "codexSecret": true,
+            "description": "This item lets you use NOVA's agile animation set with any warframe of your choosing.",
+            "longDescription": "",
+            "name": "NOVA AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/UnlockAntiMatterAgile"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks additional color options for Warframe customization.",
+            "longDescription": "",
+            "name": "SMOKE COLORS",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/NinjaColourPickerItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks a collection of lovely colors.",
+            "longDescription": "",
+            "name": "VALENTINE",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerValItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Features earthen hues of brown, and dusky shades of blue and purple.",
+            "longDescription": "",
+            "name": "TWILIGHT",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerTwilightItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks a collection of patriotic colors.",
+            "longDescription": "",
+            "name": "RED/WHITE/BLUE",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerRWBItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks additional color options for Warframe customization.",
+            "longDescription": "",
+            "name": "PSIV",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerPS4ItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A set of colors derived from the relics of the Orokin Empire.\r\n\r\nUnlocks additional color options for Warframe customization.",
+            "longDescription": "",
+            "name": "OROKIN",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerOrokin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A set of colors inspired by the Lotus.\r\n\r\nUnlocks additional color options for Warframe customization.",
+            "longDescription": "",
+            "name": "LOTUS",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerLotus"
+        },
+        {
+            "codexSecret": true,
+            "description": "Unlocks additional color options for Warframe customization.",
+            "longDescription": "",
+            "name": "COLOR PICKER D",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerItemD"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks additional color options for Warframe customization.",
+            "longDescription": "",
+            "name": "STORM",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerItemC"
+        },
+        {
+            "codexSecret": false,
+            "description": "More saturated color options for Warframe customization.",
+            "longDescription": "",
+            "name": "CLASSIC SATURATED",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerItemB"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks additional color options for Warframe customization.",
+            "longDescription": "",
+            "name": "CLASSIC",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks a collection of colors inspired by Infested denizens.",
+            "longDescription": "",
+            "name": "INFESTED",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerInfestedItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Cool off with these additional color options for Warframe customization.",
+            "longDescription": "",
+            "name": "ICE",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerIceItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks a collection of Ghastly Greens, Pumpkin Orange and Blood Red colors to customize your Warframe with.",
+            "longDescription": "",
+            "name": "HALLOWEEN",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerHalloweenItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks a collection of colors inspired by Grineer marines.",
+            "longDescription": "",
+            "name": "GRINEER",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerGrineerItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A desaturated variation of the Classic color set.",
+            "longDescription": "",
+            "name": "GAMMA",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerGammaItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks additional color options for Warframe customization.",
+            "longDescription": "",
+            "name": "FIRE",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerFireItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A set of colors derived from the uniforms of Eximus adversaries.\r\n\r\nUnlocks additional color options for Warframe customization.",
+            "longDescription": "",
+            "name": "EXIMUS",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerEximus"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks a collection of lovely EASTER colors.",
+            "longDescription": "",
+            "name": "EASTER",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerEasterItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks additional color options reflecting the default colors used on each standard Warframe.",
+            "longDescription": "",
+            "name": "TENNO",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerDefaultsItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Rise up with these additional color options for Warframe customization.",
+            "longDescription": "",
+            "name": "DAYBREAK",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerDaybreakItemA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Unlocks a collection of symbolic colors, found in datamass detailing the record of an ancient battle.",
+            "longDescription": "",
+            "name": "BASTILLE",
+            "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerBastilleItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "TENNOCON 2017 GLYPH",
+            "longDescription": "",
+            "name": "TENNOCON 2017 GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2017Glyph"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Zephyr Tengu on a dark background.",
+            "longDescription": "",
+            "name": "ZEPHYR TENGU GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrTenguDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Zephyr Cierzo on a bright background.",
+            "longDescription": "",
+            "name": "ZEPHYR TENGU GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrTenguBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Zephyr on a dark background.",
+            "longDescription": "",
+            "name": "ZEPHYR GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Zephyr Cierzo on a dark background.",
+            "longDescription": "",
+            "name": "ZEPHYR CIERZO GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrCierzoDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Zephyr Cierzo on a bright background.",
+            "longDescription": "",
+            "name": "ZEPHYR CIERZO GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrCierzoBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Zephyr on a bright background.",
+            "longDescription": "",
+            "name": "ZEPHYR GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Volt Storm on a dark background.",
+            "longDescription": "",
+            "name": "VOLT STORM GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVoltStormDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Volt Storm on a bright background.",
+            "longDescription": "",
+            "name": "VOLT STORM GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVoltStormBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Volt Pulse on a dark background.",
+            "longDescription": "",
+            "name": "VOLT PULSE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVoltPulseDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Volt Pulse on a bright background.",
+            "longDescription": "",
+            "name": "VOLT PULSE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVoltPulseBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Volt Prime on a dark background.",
+            "longDescription": "",
+            "name": "VOLT PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVoltPrimeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Volt Prime on a bright background.",
+            "longDescription": "",
+            "name": "VOLT PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVoltPrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Volt on a dark background.",
+            "longDescription": "",
+            "name": "VOLT GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVoltDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Volt on a bright background.",
+            "longDescription": "",
+            "name": "VOLT GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVoltBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Vauban Prime on a dark background.",
+            "longDescription": "",
+            "name": "VAUBAN PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVaubanPrimeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Vauban Prime on a bright background.",
+            "longDescription": "",
+            "name": "VAUBAN PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVaubanPrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Valkyr Kara on a dark background.",
+            "longDescription": "",
+            "name": "VALKYR KARA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrKaraDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Valkyr Kara on a bright background.",
+            "longDescription": "",
+            "name": "VALKYR KARA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrKaraBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting the Valkyr Gersemi skin.",
+            "longDescription": "",
+            "name": "VALKYR GERSEMI GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrDeluxe"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Valkyr on a dark background.",
+            "longDescription": "",
+            "name": "VALKYR GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Valkyr on a bright background.",
+            "longDescription": "",
+            "name": "VALKYR GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Valkyr Bastet on a dark background.",
+            "longDescription": "",
+            "name": "VALKYR BASTET GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrBastetDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Valkyr Bastet on a bright background.",
+            "longDescription": "",
+            "name": "VALKYR BASTET GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrBastetBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Trinity Meridian on a dark background.",
+            "longDescription": "",
+            "name": "TRINITY MERIDIAN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrinityMeridianDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Trinity Meridian on a bright background.",
+            "longDescription": "",
+            "name": "TRINITY MERIDIAN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrinityMeridianBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Trinity on a dark background.",
+            "longDescription": "",
+            "name": "TRINITY GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrinityDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Trinity on a bright background.",
+            "longDescription": "",
+            "name": "TRINITY GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrinityBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Trinity Aura on a dark background.",
+            "longDescription": "",
+            "name": "TRINITY AURA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrinityAuraDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Trinity Aura on a bright background.",
+            "longDescription": "",
+            "name": "TRINITY AURA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrinityAuraBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mirage Trivelin on a dark background.",
+            "longDescription": "",
+            "name": "MIRAGE TRIVELIN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTravelinMirageDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mirage Trivelin on a bright background.",
+            "longDescription": "",
+            "name": "MIRAGE TRIVELIN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTravelinMirageBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Vauban Gambit on a dark background.",
+            "longDescription": "",
+            "name": "VAUBAN GAMBIT GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrapperGambitDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Vauban Gambit on a bright background.",
+            "longDescription": "",
+            "name": "VAUBAN GAMBIT GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrapperGambitBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Vauban on a dark background.",
+            "longDescription": "",
+            "name": "VAUBAN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrapperDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Vauban on a bright background.",
+            "longDescription": "",
+            "name": "VAUBAN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrapperBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Vauban Esprit on a dark background.",
+            "longDescription": "",
+            "name": "VAUBAN ESPRIT GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrapperAltDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Vauban Esprit on a bright background.",
+            "longDescription": "",
+            "name": "VAUBAN ESPRIT GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrapperAltBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Saryn Hemlock on a dark background.",
+            "longDescription": "",
+            "name": "SARYN HEMLOCK GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSarynHemlockDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Saryn Hemlock on a bright background.",
+            "longDescription": "",
+            "name": "SARYN HEMLOCK GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSarynHemlockBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Saryn Orphid skin.",
+            "longDescription": "",
+            "name": "SARYN ORPHID GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSarynDeluxe"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Saryn on a dark background.",
+            "longDescription": "",
+            "name": "SARYN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSarynDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Saryn Chlora on a dark background.",
+            "longDescription": "",
+            "name": "SARYN CHLORA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSarynChloraDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Saryn Chlora on a bright background.",
+            "longDescription": "",
+            "name": "SARYN CHLORA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSarynChloraBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Saryn on a bright background.",
+            "longDescription": "",
+            "name": "SARYN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSarynBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Rhino Vanguard on a dark background.",
+            "longDescription": "",
+            "name": "RHINO VANGUARD GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRhinoVanguardDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Rhino Vanguard on a bright background.",
+            "longDescription": "",
+            "name": "RHINO VANGUARD GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRhinoVanguardBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Rhino Thrak on a dark background.",
+            "longDescription": "",
+            "name": "RHINO THRAK GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRhinoThrakDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Rhino Thrak on a bright background.",
+            "longDescription": "",
+            "name": "RHINO THRAK GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRhinoThrakBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Rhino Prime on a dark background.",
+            "longDescription": "",
+            "name": "RHINO PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRhinoPrimeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Rhino Prime on a bright background.",
+            "longDescription": "",
+            "name": "RHINO PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRhinoPrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Rhino on a dark background.",
+            "longDescription": "",
+            "name": "RHINO GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRhinoDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Rhino on a bright background.",
+            "longDescription": "",
+            "name": "RHINO GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRhinoBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Hydroid Triton on a dark background.",
+            "longDescription": "",
+            "name": "HYDROID TRITON GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImagePirateTritonDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Hydroid Triton on a bright background.",
+            "longDescription": "",
+            "name": "HYDROID TRITON GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImagePirateTritonBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Hydroid Ketos on a dark background.",
+            "longDescription": "",
+            "name": "HYDROID KETOS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImagePirateKetosDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Hydroid Ketos on a bright background.",
+            "longDescription": "",
+            "name": "HYDROID KETOS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImagePirateKetosBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Hydroid on a dark background.",
+            "longDescription": "",
+            "name": "HYDROID GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImagePirateDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Hydroid on a bright background.",
+            "longDescription": "",
+            "name": "HYDROID GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImagePirateBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Oberon Markhor on a dark background.",
+            "longDescription": "",
+            "name": "OBERON MARKHOR GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageOberonMarkhorDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Oberon Markhor on a bright background.",
+            "longDescription": "",
+            "name": "OBERON MARKHOR GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageOberonMarkhorBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Oberon on a dark background.",
+            "longDescription": "",
+            "name": "OBERON GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageOberonDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Oberon on a bright background.",
+            "longDescription": "",
+            "name": "OBERON GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageOberonBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Oberon Oryx on a dark background.",
+            "longDescription": "",
+            "name": "OBERON ORYX GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageOberonAltDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Oberon Oryx on a bright background.",
+            "longDescription": "",
+            "name": "OBERON ORYX GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageOberonAltBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nyx Vespa on a dark background.",
+            "longDescription": "",
+            "name": "NYX VESPA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNyxVespaDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nyx Vespa on a bright background.",
+            "longDescription": "",
+            "name": "NYX VESPA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNyxVespaBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nyx Prime on a dark background.",
+            "longDescription": "",
+            "name": "NYX PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNyxPrimeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nyx Prime on a bright background.",
+            "longDescription": "",
+            "name": "NYX PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNyxPrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nyx Menticide on a dark background.",
+            "longDescription": "",
+            "name": "NYX MENTICIDE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNyxMenticideDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nyx Menticide on a bright background.",
+            "longDescription": "",
+            "name": "NYX MENTICIDE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNyxMenticideBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nyx on a dark background.",
+            "longDescription": "",
+            "name": "NYX GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNyxDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nyx on a bright background.",
+            "longDescription": "",
+            "name": "NYX GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNyxBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nova Slipstream on a dark background.",
+            "longDescription": "",
+            "name": "NOVA SLIPSTREAM GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaSlipstreamDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nova Slipstream on a bright background.",
+            "longDescription": "",
+            "name": "NOVA SLIPSTREAM GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaSlipstreamBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nova Quantum on a dark background.",
+            "longDescription": "",
+            "name": "NOVA QUANTUM GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaQuantumDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nova Quantum on a bright background.",
+            "longDescription": "",
+            "name": "NOVA QUANTUM GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaQuantumBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nova Prime on a dark background.",
+            "longDescription": "",
+            "name": "NOVA PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaPrimeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nova Prime on a bright background.",
+            "longDescription": "",
+            "name": "NOVA PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaPrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nova on a dark background.",
+            "longDescription": "",
+            "name": "NOVA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nova on a bright background.",
+            "longDescription": "",
+            "name": "NOVA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nova Flux on a dark background.",
+            "longDescription": "",
+            "name": "NOVA FLUX GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaAltDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nova Flux on a bright background.",
+            "longDescription": "",
+            "name": "NOVA FLUX GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaAltBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nekros Shroud on a dark background.",
+            "longDescription": "",
+            "name": "NEKROS SHROUD GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNekrosShroudDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nekros Shroud on a bright background.",
+            "longDescription": "",
+            "name": "NEKROS SHROUD GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNekrosShroudBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nekros on a dark background.",
+            "longDescription": "",
+            "name": "NEKROS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNekrosDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nekros on a bright background.",
+            "longDescription": "",
+            "name": "NEKROS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNekrosBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nekros Raknis on a dark background.",
+            "longDescription": "",
+            "name": "NEKROS RAKNIS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNekrosAraknidDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Nekros Raknis on a bright background.",
+            "longDescription": "",
+            "name": "NEKROS RAKNIS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNekrosAraknidBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mirage Harlequin on a dark background.",
+            "longDescription": "",
+            "name": "MIRAGE HARLEQUIN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMirageHarlequinDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mirage Harlequin on a bright background.",
+            "longDescription": "",
+            "name": "MIRAGE HARLEQUIN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMirageHarlequinBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mirage on a dark background.",
+            "longDescription": "",
+            "name": "MIRAGE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMirageDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mirage on a bright background.",
+            "longDescription": "",
+            "name": "MIRAGE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMirageBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mesa Ovis on a dark background.",
+            "longDescription": "",
+            "name": "MESA OVIS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMesaCortesDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mesa Ovis on a bright background.",
+            "longDescription": "",
+            "name": "MESA OVIS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMesaCortesBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mag Prime on a dark background.",
+            "longDescription": "",
+            "name": "MAG PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMagPrimeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mag Prime on a bright background.",
+            "longDescription": "",
+            "name": "MAG PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMagPrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mag Gauss on a dark background.",
+            "longDescription": "",
+            "name": "MAG GAUSS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMagGaussDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mag Gauss on a bright background.",
+            "longDescription": "",
+            "name": "MAG GAUSS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMagGaussBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mag on a dark background.",
+            "longDescription": "",
+            "name": "MAG GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMagDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mag Coil on a dark background.",
+            "longDescription": "",
+            "name": "MAG COIL GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMagCoilDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mag Coil on a bright background.",
+            "longDescription": "",
+            "name": "MAG COIL GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMagCoilBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mag on a bright background.",
+            "longDescription": "",
+            "name": "MAG GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMagBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Loki Swindle on a dark background.",
+            "longDescription": "",
+            "name": "LOKI SWINDLE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiSwindleDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Loki Swindle on a bright background.",
+            "longDescription": "",
+            "name": "LOKI SWINDLE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiSwindleBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "/Lotus/Language/Items/AvatarLokiPrimeDarkDesc",
+            "longDescription": "",
+            "name": "LOKI PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiPrimeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "/Lotus/Language/Items/AvatarLokiPrimeBrightDesc",
+            "longDescription": "",
+            "name": "LOKI PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiPrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Loki Essence on a dark background.",
+            "longDescription": "",
+            "name": "LOKI ESSENCE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiEssenceDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Loki Essence on a bright background.",
+            "longDescription": "",
+            "name": "LOKI ESSENCE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiEssenceBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Loki Enigma on a dark background.",
+            "longDescription": "",
+            "name": "LOKI ENIGMA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiEnigmaDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Loki Enigma on a bright background.",
+            "longDescription": "",
+            "name": "LOKI ENIGMA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiEnigmaBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Loki on a dark background.",
+            "longDescription": "",
+            "name": "LOKI GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Loki on a bright background.",
+            "longDescription": "",
+            "name": "LOKI GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Limbo on a dark background.",
+            "longDescription": "",
+            "name": "LIMBO GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Limbo on a bright background.",
+            "longDescription": "",
+            "name": "LIMBO GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Limbo Aristeas on a dark background.",
+            "longDescription": "",
+            "name": "LIMBO ARISTEAS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboAristeasDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Limbo Aristeas on a bright background.",
+            "longDescription": "",
+            "name": "LIMBO ARISTEAS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboAristeasBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Hydroid Prime on a dark background.",
+            "longDescription": "",
+            "name": "HYDROID PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageHydroidPrimeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Hydroid Prime on a bright background.",
+            "longDescription": "",
+            "name": "HYDROID PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageHydroidPrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mesa on a dark background.",
+            "longDescription": "",
+            "name": "MESA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGunslingerDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mesa on a bright background.",
+            "longDescription": "",
+            "name": "MESA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGunslingerBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mesa Longhorn on a dark background.",
+            "longDescription": "",
+            "name": "MESA LONGHORN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGunslingerAltDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Mesa Longhorn on a bright background.",
+            "longDescription": "",
+            "name": "MESA LONGHORN GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGunslingerAltBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph of Sargas Ruk",
+            "longDescription": "",
+            "name": "SARGAS RUK GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGrineerSargusRuk"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph of a Grineer Roller",
+            "longDescription": "",
+            "name": "GRINEER ROLLER GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGrineerRoller"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph of a Grineer Lancer",
+            "longDescription": "",
+            "name": "GRINEER LANCER GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGrineerLancer"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph of Kela de Thaym",
+            "longDescription": "",
+            "name": "KELA DE THAYM GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGrineerKelaDeThaym"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph of Captain Vor.",
+            "longDescription": "",
+            "name": "CAPTAIN VOR GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGrineerCaptainVor"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph of a Grineer Ballista",
+            "longDescription": "",
+            "name": "GRINEER BALLISTA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGrineerBallista"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Limbo Magrite on a dark background.",
+            "longDescription": "",
+            "name": "LIMBO MAGRITE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGraeaeLimboDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Limbo Magrite on a bright background.",
+            "longDescription": "",
+            "name": "LIMBO MAGRITE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGraeaeLimboBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Gara on a bright background.",
+            "longDescription": "",
+            "name": "GARA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGlassBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Frost Squall on a dark background.",
+            "longDescription": "",
+            "name": "FROST SQUALL GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageFrostSquallDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Frost Squall on a bright background.",
+            "longDescription": "",
+            "name": "FROST SQUALL GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageFrostSquallBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Frost Prime on a dark background.",
+            "longDescription": "",
+            "name": "FROST PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageFrostPrimeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Frost Prime on a bright background.",
+            "longDescription": "",
+            "name": "FROST PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageFrostPrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Frost on a dark background.",
+            "longDescription": "",
+            "name": "FROST GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageFrostDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Frost on a bright background.",
+            "longDescription": "",
+            "name": "FROST GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageFrostBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Frost Aurora on a dark background.",
+            "longDescription": "",
+            "name": "FROST AURORA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageFrostAuroraDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Frost Aurora on a bright background.",
+            "longDescription": "",
+            "name": "FROST AURORA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageFrostAuroraBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting the Excalibur Proto-suit.",
+            "longDescription": "",
+            "name": "EXCALIBUR PROTO-SUIT GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageExcaliburProto"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Excalibur Prime on a dark background.",
+            "longDescription": "",
+            "name": "EXCALIBUR PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageExcaliburPrimeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Excalibur Prime on a bright background.",
+            "longDescription": "",
+            "name": "EXCALIBUR PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageExcaliburPrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Excalibur Pendragon on a dark background.",
+            "longDescription": "",
+            "name": "EXCALIBUR PENDRAGON GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageExcaliburPendragonDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Excalibur Pendragon on a bright background.",
+            "longDescription": "",
+            "name": "EXCALIBUR PENDRAGON GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageExcaliburPendragonBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Excalibur on a dark background.",
+            "longDescription": "",
+            "name": "EXCALIBUR GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageExcaliburDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Excalibur on a bright background.",
+            "longDescription": "",
+            "name": "EXCALIBUR GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageExcaliburBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Excalibur Avalon on a dark background.",
+            "longDescription": "",
+            "name": "EXCALIBUR AVALON GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageExcaliburAvalonDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Excalibur Avalon on a bright background.",
+            "longDescription": "",
+            "name": "EXCALIBUR AVALON GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageExcaliburAvalonBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ember Prime on a dark background.",
+            "longDescription": "",
+            "name": "EMBER PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberPrimeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ember Prime on a bright background.",
+            "longDescription": "",
+            "name": "EMBER PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberPrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ember Phoenix on a dark background.",
+            "longDescription": "",
+            "name": "PHOENIX EMBER GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberPheonixDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ember Phoenix on a bright background.",
+            "longDescription": "",
+            "name": "PHOENIX EMBER GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberPheonixBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ember on a dark background.",
+            "longDescription": "",
+            "name": "EMBER GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ember on a bright background.",
+            "longDescription": "",
+            "name": "EMBER GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ember Backdraft on a dark background.",
+            "longDescription": "",
+            "name": "EMBER BACKDRAFT GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberBackdraftDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ember Backdraft on a bright background.",
+            "longDescription": "",
+            "name": "EMBER BACKDRAFT GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberBackdraftBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "CHROMA DRAC GLYPH",
+            "longDescription": "",
+            "name": "CHROMA DRAC GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaDracDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Chroma Drac on a bright background.",
+            "longDescription": "",
+            "name": "CHROMA DRAC GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaDracBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Chroma on a dark background.",
+            "longDescription": "",
+            "name": "CHROMA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Chroma on a bright background.",
+            "longDescription": "",
+            "name": "CHROMA GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Chroma Amaru on a dark background.",
+            "longDescription": "",
+            "name": "CHROMA AMARU GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaAmaruDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Chroma Amaru on a bright background.",
+            "longDescription": "",
+            "name": "CHROMA AMARU GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaAmaruBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Banshee Reverb on a dark background.",
+            "longDescription": "",
+            "name": "BANSHEE REVERB GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheeReverbDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Banshee Reverb on a bright background.",
+            "longDescription": "",
+            "name": "BANSHEE REVERB GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheeReverbBright"
+        },
+        {
+            "codexSecret": false,
+            "description": "A glyph depicting Banshee Prime on a dark background.",
+            "longDescription": "",
+            "name": "BANSHEE PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheePrimeDark"
+        },
+        {
+            "codexSecret": false,
+            "description": "A glyph depicting Banshee Prime on a bright background.",
+            "longDescription": "",
+            "name": "BANSHEE PRIME GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheePrimeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Banshee on a dark background.",
+            "longDescription": "",
+            "name": "BANSHEE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheeDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Banshee Chorus on a dark background.",
+            "longDescription": "",
+            "name": "BANSHEE CHORUS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheeChorusDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Banshee Chorus on a bright background.",
+            "longDescription": "",
+            "name": "BANSHEE CHORUS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheeChorusBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Banshee on a bright background.",
+            "longDescription": "",
+            "name": "BANSHEE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheeBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ash Scorpion on a dark background.",
+            "longDescription": "",
+            "name": "ASH SCORPION GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAshScorpionDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ash Scorpion on a bright background.",
+            "longDescription": "",
+            "name": "ASH SCORPION GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAshScorpionBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ash Locust on a dark background.",
+            "longDescription": "",
+            "name": "ASH LOCUST GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAshLocustDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ash Locust on a bright background.",
+            "longDescription": "",
+            "name": "ASH LOCUST GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAshLocustBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ash on a dark background.",
+            "longDescription": "",
+            "name": "ASH GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAshDark"
+        },
+        {
+            "codexSecret": true,
+            "description": "A glyph depicting Ash on a bright background.",
+            "longDescription": "",
+            "name": "ASH GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAshBright"
+        },
+        {
+            "codexSecret": true,
+            "description": "A festive glyph.",
+            "longDescription": "",
+            "name": "WINTER GLYPH VII",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinterB2016G"
+        },
+        {
+            "codexSecret": true,
+            "description": "A festive glyph.",
+            "longDescription": "",
+            "name": "WINTER GLYPH VI",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinterB2016F"
+        },
+        {
+            "codexSecret": true,
+            "description": "A festive glyph.",
+            "longDescription": "",
+            "name": "WINTER GLYPH V",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinterB2016E"
+        },
+        {
+            "codexSecret": true,
+            "description": "A festive glyph.",
+            "longDescription": "",
+            "name": "WINTER GLYPH IV",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinterB2016D"
+        },
+        {
+            "codexSecret": true,
+            "description": "A festive glyph.",
+            "longDescription": "",
+            "name": "WINTER GLYPH III",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinterB2016C"
+        },
+        {
+            "codexSecret": true,
+            "description": "A festive glyph.",
+            "longDescription": "",
+            "name": "WINTER GLYPH II",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinterB2016B"
+        },
+        {
+            "codexSecret": true,
+            "description": "A festive glyph.",
+            "longDescription": "",
+            "name": "WINTER GLYPH I",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinterB2016A"
+        },
+        {
+            "codexSecret": true,
+            "description": "A festive glyph.",
+            "longDescription": "",
+            "name": "SOLSTICE GLYPH IV",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinter2016D"
+        },
+        {
+            "codexSecret": true,
+            "description": "A festive glyph.",
+            "longDescription": "",
+            "name": "SOLSTICE GLYPH III",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinter2016C"
+        },
+        {
+            "codexSecret": true,
+            "description": "A festive glyph.",
+            "longDescription": "",
+            "name": "SOLSTICE GLYPH II",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinter2016B"
+        },
+        {
+            "codexSecret": true,
+            "description": "A festive glyph.",
+            "longDescription": "",
+            "name": "SOLSTICE GLYPH I",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinter2016A"
+        },
+        {
+            "codexSecret": true,
+            "description": "NEKROS DAY OF THE DEAD GLYPH",
+            "longDescription": "",
+            "name": "NEKROS DAY OF THE DEAD GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNekrosCalaca"
+        },
+        {
+            "codexSecret": true,
+            "description": "LOKI GLYPH",
+            "longDescription": "",
+            "name": "LOKI GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageItem8"
+        },
+        {
+            "codexSecret": true,
+            "description": "EMBER GLYPH",
+            "longDescription": "",
+            "name": "EMBER GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageItem7"
+        },
+        {
+            "codexSecret": true,
+            "description": "ASH GLYPH",
+            "longDescription": "",
+            "name": "ASH GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageItem6"
+        },
+        {
+            "codexSecret": true,
+            "description": "MAG GLYPH",
+            "longDescription": "",
+            "name": "MAG GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageItem5"
+        },
+        {
+            "codexSecret": true,
+            "description": "RHINO GLYPH",
+            "longDescription": "",
+            "name": "RHINO GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageItem4"
+        },
+        {
+            "codexSecret": true,
+            "description": "TRINITY GLYPH",
+            "longDescription": "",
+            "name": "TRINITY GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageItem3"
+        },
+        {
+            "codexSecret": true,
+            "description": "VOLT GLYPH",
+            "longDescription": "",
+            "name": "VOLT GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageItem2"
+        },
+        {
+            "codexSecret": true,
+            "description": "EXCALIBUR GLYPH",
+            "longDescription": "",
+            "name": "EXCALIBUR GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageItem1"
+        },
+        {
+            "codexSecret": false,
+            "description": "LEGENDARY MATTAUS GLYPH",
+            "longDescription": "",
+            "name": "LEGENDARY MATTAUS GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphMattaus"
+        },
+        {
+            "codexSecret": false,
+            "description": "LEGENDARY LOCOCRAZY_ GLYPH",
+            "longDescription": "",
+            "name": "LEGENDARY LOCOCRAZY_ GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphLocoCrazy"
+        },
+        {
+            "codexSecret": true,
+            "description": "KI'TEER TRIBUTE GLYPH",
+            "longDescription": "",
+            "name": "KI'TEER TRIBUTE GLYPH",
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBaroIcon"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "TRINITY RED",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorXmasVibrantB"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "BROKK BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorXmasVibrantA"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "NOVA WHITE",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMundaneB"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "TENNO RED",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMundaneA"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "JADELEAF GREEN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMidB"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "LOTUS WHITE",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMidA"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "MIRAGE RED",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantK"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "VALKYR BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantJ"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "LOTUS PURPLE",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantI"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "VENUS BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantH"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "ALAD BLUE",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantG"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "PHORID RED",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantF"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "JUPITER BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantE"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "SARGAS BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantD"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "SHADOW GREY",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantC"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "AMBULAS BLACK",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantB"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "ANYO GREY",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantA"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "RAKTA RED",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderVibrantA"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "VAYKOR WHITE",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderMundaneA"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "PERRIN BLUE",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderMidA"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "PHOBOS BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneK"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "FOREST GREY",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneJ"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "ARID BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneI"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "SATURN BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneH"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "GRUSTRAG GREY",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneG"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "GALLIUM GREY",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneF"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "KRIL BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneE"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "HEK GREEN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneD"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "CORPUS GREY",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneC"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "EARTH BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneB"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "ASH GREY",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneA"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "RHINO BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidK"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "NOVA GREY",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidJ"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "ERIS BLACK",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidI"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "MERCURY BROWN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidH"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "ORDIS GREY",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidG"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "DARVO BLUE",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidF"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "VOID BLACK",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidE"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "INFESTED BLACK",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidD"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "MARS RED",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidC"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "DERELICT BLACK",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidB"
+        },
+        {
+            "codexSecret": true,
+            "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+            "longDescription": "",
+            "name": "SEDNA GREY",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidA"
+        }
+    ]
+}

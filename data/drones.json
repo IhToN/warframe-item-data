@@ -1,0 +1,80 @@
+{
+    "ExportDrones": [
+        {
+            "binCapacity": 1,
+            "binCount": 1,
+            "capacityMultiplier": [
+                8,
+                6,
+                4,
+                1
+            ],
+            "codexSecret": false,
+            "description": "The Distilling Extractor has an increased chance of acquiring uncommon and rare resources.\r\n\r\nDeploy this Extractor on a planet to collect resources. It must be emptied regularly and monitored for damage.",
+            "durability": 200,
+            "fillRate": 8,
+            "longDescription": "",
+            "name": "DISTILLING EXTRACTOR",
+            "repairRate": 20,
+            "specialities": [],
+            "uniqueName": "/Lotus/Types/Ship/BasicUcResourceDrone"
+        },
+        {
+            "binCapacity": 1,
+            "binCount": 1,
+            "capacityMultiplier": [
+                8,
+                6,
+                4,
+                1
+            ],
+            "codexSecret": false,
+            "description": "Deploy the EXTRACTOR on a planet to collect resources.\r\n\r\nMust be emptied regularly for maximum efficiency and monitored for damage.",
+            "durability": 100,
+            "fillRate": 4,
+            "longDescription": "",
+            "name": "TITAN EXTRACTOR",
+            "repairRate": 10,
+            "specialities": [],
+            "uniqueName": "/Lotus/Types/Ship/BasicResourceDrone"
+        },
+        {
+            "binCapacity": 2,
+            "binCount": 1,
+            "capacityMultiplier": [
+                8,
+                6,
+                4,
+                1
+            ],
+            "codexSecret": false,
+            "description": "The Distilling Extractor Prime has an increased chance of acquiring uncommon and rare resources.\r\n\r\nDeploy this Extractor on a planet to collect large amounts of resources. It must be emptied regularly and monitored for damage.",
+            "durability": 200,
+            "fillRate": 8,
+            "longDescription": "",
+            "name": "DISTILLING EXTRACTOR PRIME",
+            "repairRate": 20,
+            "specialities": [],
+            "uniqueName": "/Lotus/Types/Ship/AdvancedUcResourceDrone"
+        },
+        {
+            "binCapacity": 2,
+            "binCount": 1,
+            "capacityMultiplier": [
+                8,
+                6,
+                4,
+                1
+            ],
+            "codexSecret": false,
+            "description": "Deploy the EXTRACTOR on a planet to collect large amounts of resources.\r\n\r\nMust be emptied regularly for maximum efficiency and monitored for damage.",
+            "durability": 100,
+            "fillRate": 4,
+            "longDescription": "",
+            "name": "TITAN EXTRACTOR PRIME",
+            "repairRate": 10,
+            "specialities": [],
+            "uniqueName": "/Lotus/Types/Ship/AdvancedResourceDrone"
+        }
+    ]
+}

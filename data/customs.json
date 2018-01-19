@@ -1,0 +1,4083 @@
+{
+    "ExportCustoms": [
+        {
+            "codexSecret": false,
+            "description": "A festive skin for the Burston.",
+            "name": "BURSTON SOLSTICE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Weapons/LongGuns/SolsticeBurston"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Volt Prime Warframe.",
+            "name": "VOLT PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltPrimeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Storm Helmet for the Volt Warframe.",
+            "name": "VOLT STORM HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAltStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Pulse Helmet for the Volt Warframe.",
+            "name": "VOLT PULSE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAltBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Volt, and adds Ability Duration, with a reduction to Shields.",
+            "name": "ARCANE PULSE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Volt, and increases Ability Power, but reduces duration of Aim Glide and Wall Latch.",
+            "name": "ARCANE STORM HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Volt Warframe.",
+            "name": "VOLT HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Delve into the past with this experimental prototype skin for Volt.",
+            "name": "VOLT PROTO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltDeluxeSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Volt Warframe.",
+            "name": "VOLT IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Dark Sword.",
+            "name": "DARK SWORD DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/VTHalloweenDarkSword"
+        },
+        {
+            "codexSecret": false,
+            "description": "This Excalibur Warframe has been coated with liquid prisma, enriched by pure void energy.",
+            "name": "EXCALIBUR PRISMA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/VTExcaliburSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A unique helmet for Excalibur, coated with liquid prisma and enriched by pure void energy.",
+            "name": "EXCALIBUR PRISMA PENDRAGON HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/VTExcaliburPendragonHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A unique helmet for Excalibur, coated with liquid prisma and enriched by pure void energy.",
+            "name": "EXCALIBUR PRISMA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/VTExcaliburHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A unique helmet for Excalibur, coated with liquid prisma and enriched by pure void energy.",
+            "name": "EXCALIBUR PRISMA AVALON HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/VTExcaliburAvalonHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forged from hardened prisma crystal, these extravagant arrows make a bold statement.",
+            "name": "PRISMA ARROWS",
+            "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/PrismaArrow"
+        },
+        {
+            "codexSecret": false,
+            "description": "Angular diamonds define this slender staff skin.",
+            "name": "ANPU STAFF SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/BaroInarosPolearmSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "Show the enemy how much you care with the adorable Eros Arrow skin. Works with all bows.",
+            "name": "EROS ARROW SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/ValentinesDay/ValentinesArrow"
+        },
+        {
+            "codexSecret": false,
+            "description": "Aura Helmet for the Trinity Warframe.",
+            "name": "TRINITY AURA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAltStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Meridian Helmet for the Trinity Warframe.",
+            "name": "TRINITY MERIDIAN HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAltBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Trinity, and adds Shield Capacity, with a reduction to Ability Efficiency.",
+            "name": "ARCANE MERIDIAN HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Trinity, and increases the Ability Duration, but adversely affects Health.",
+            "name": "ARCANE AURA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Trinity Warframe.",
+            "name": "TRINITY HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Embrace the dark power that swirls through this Trinity skin.",
+            "name": "TRINITY STREGA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityDeluxeSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Trinity Warframe.",
+            "name": "TRINITY IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Void's corrupting energy has scarred this Warframe helmet, leaving it permanently out of phase with conventional space.",
+            "name": "VAUBAN PHASED HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trapper/VaubanVoidSkinHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Void's corrupting energy has scarred this Warframe, leaving it permanently out of phase with conventional space.",
+            "name": "VAUBAN PHASED SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trapper/VaubanVoidSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal Skin for the Vauban Warframe.",
+            "name": "VAUBAN IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trapper/VaubanAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Vauban.",
+            "name": "VAUBAN ARMISTICE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetSoldier"
+        },
+        {
+            "codexSecret": false,
+            "description": "Esprit Helmet for the Vauban Warframe.",
+            "name": "VAUBAN ESPRIT HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAltStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Gambit Helmet for the Vauban Warframe.",
+            "name": "VAUBAN GAMBIT HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAltBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Vauban, and increases velocity of parkour maneuvers, but reduces Ability Duration.",
+            "name": "ARCANE GAMBIT HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Vauban, and increases Energy Max, with a reduction to Shields.",
+            "name": "ARCANE ESPRIT HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Vauban Warframe.",
+            "name": "VAUBAN HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperDefaultHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal Skin for the Zephyr Warframe.",
+            "name": "ZEPHYR IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Tengu/ZephyrAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Zephyr Warframe.",
+            "name": "ZEPHYR HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Tengu/TenguHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Zephyr.",
+            "name": "ZEPHYR CIERZO HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Tengu/TenguAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Zephyr.",
+            "name": "ZEPHYR TENGU HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Tengu/TenguAltBHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Weather the heat with this sizzling skin for the Zarr.",
+            "name": "ZARR TOWSUN SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/SummerSolstice/SummerSolsticeZarr"
+        },
+        {
+            "codexSecret": false,
+            "description": "Weather the heat with this sizzling skin for the Twin Rogga.",
+            "name": "TWIN ROGGA TOWSUN SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinRogga"
+        },
+        {
+            "codexSecret": false,
+            "description": "Weather the heat with this sizzling skin for the Twin Grakatas.",
+            "name": "TWIN GRAKATAS TOWSUN SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinGrakatas"
+        },
+        {
+            "codexSecret": false,
+            "description": "Weather the heat with this sizzling skin for the Kesheg.",
+            "name": "KESHEG TOWSUN SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/SummerSolstice/SummerSolsticeKesheg"
+        },
+        {
+            "codexSecret": false,
+            "description": "Weather the heat with this sizzling skin for the Grakata.",
+            "name": "GRAKATA TOWSUN SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/SummerSolstice/SummerSolsticeGrakata"
+        },
+        {
+            "codexSecret": false,
+            "description": "Pay homage to the constellations with this brilliant Bo skin.",
+            "name": "BO NOCTURNE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Starry/StarryStaff"
+        },
+        {
+            "codexSecret": false,
+            "description": "Pay homage to the constellations with this brilliant Skana skin.",
+            "name": "SKANA NOCTURNE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Starry/StarrySkana"
+        },
+        {
+            "codexSecret": false,
+            "description": "Pay homage to the constellations with this brilliant Paris skin.",
+            "name": "PARIS NOCTURNE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Starry/StarryParis"
+        },
+        {
+            "codexSecret": false,
+            "description": "Pay homage to the constellations with this brilliant Lato skin.",
+            "name": "LATO NOCTURNE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Starry/StarryLato"
+        },
+        {
+            "codexSecret": false,
+            "description": "Pay homage to the constellations with this brilliant Kunai skin.",
+            "name": "KUNAI NOCTURNE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Starry/StarryKunai"
+        },
+        {
+            "codexSecret": false,
+            "description": "Pay homage to the constellations with this brilliant Braton skin.",
+            "name": "BRATON NOCTURNE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Starry/StarryBraton"
+        },
+        {
+            "codexSecret": false,
+            "description": "Pay homage to the constellations with this brilliant Aklato skin.",
+            "name": "AKLATO NOCTURNE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Starry/StarryAklato"
+        },
+        {
+            "codexSecret": false,
+            "name": "EXCLUSIVE RENOWN PACKS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sony/RenownGenericPack"
+        },
+        {
+            "codexSecret": false,
+            "description": "Commemorates the Tenno who have honored the Lotus for two cycles.",
+            "name": "SEAL OF HONORING II",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneTwoYearSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "Commemorates the Tenno who have honored the Lotus for three cycles.",
+            "name": "SEAL OF HONORING III",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneThreeYearSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "Dedicated to the amazing Xbox One Warframe community.",
+            "name": "SEAL OF HONORING",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneOneYearSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive sigil.",
+            "name": "SOLSTICE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Winter2016Sigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "A special sigil worn only by a select few Tenno.",
+            "name": "TENNO CHRONICLER SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WikiaSigil"
+        },
+        {
+            "codexSecret": true,
+            "description": "This sigil resembles a mysterious glyph.",
+            "name": "GLYPHED SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TwoToneSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to players who attended the Tenno Live 2015.",
+            "name": "TENNO LIVE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoLive2015Sigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "Bestowed upon those who joined together in celebration at TennoCon 2017.",
+            "name": "TENNOCON 2017 SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2017Sigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "Bestowed upon those who joined together in celebration at TennoCon 2016.",
+            "name": "TENNOCON 2016 SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2016Sigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Steel Meridian.",
+            "name": "CHAMPION SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianK"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Steel Meridian.",
+            "name": "UNYIELDING SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianJ"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Steel Meridian.",
+            "name": "REBELLION SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianI"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Steel Meridian.",
+            "name": "ARMORED SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianH"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Steel Meridian.",
+            "name": "FREEDOM FIGHTER SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianG"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Steel Meridian.",
+            "name": "PROTECTORATE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianF"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Steel Meridian.",
+            "name": "UPRISING SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianE"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Steel Meridian.",
+            "name": "VIGILANCE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianD"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Steel Meridian.",
+            "name": "ARMADA SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianC"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Steel Meridian.",
+            "name": "DEFIANCE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianB"
+        },
+        {
+            "codexSecret": false,
+            "description": "Allows the wearer to gain reputation with the Steel Meridian.",
+            "name": "STEEL MERIDIAN SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Red Veil.",
+            "name": "ASSASSIN SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilK"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Red Veil.",
+            "name": "COVERT SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilJ"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Red Veil.",
+            "name": "MALEVOLENT SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilI"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Red Veil.",
+            "name": "VISCERA SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilH"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Red Veil.",
+            "name": "RUIN SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilG"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Red Veil.",
+            "name": "LESION SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilF"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Red Veil.",
+            "name": "MAELSTROM SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilE"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Red Veil.",
+            "name": "THREAT SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilD"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Red Veil.",
+            "name": "CULL SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilC"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Red Veil.",
+            "name": "BLADES SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilB"
+        },
+        {
+            "codexSecret": false,
+            "description": "Allows the wearer to gain reputation with the Red Veil.",
+            "name": "RED VEIL SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Perrin Sequence.",
+            "name": "CHAIRMAN SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceK"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Perrin Sequence.",
+            "name": "CAPITAL SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceJ"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Perrin Sequence.",
+            "name": "OPTIMUM SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceI"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Perrin Sequence.",
+            "name": "TESSILATIONS SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceH"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Perrin Sequence.",
+            "name": "STRATEGY SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceG"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Perrin Sequence.",
+            "name": "DIRECTIVES SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceF"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Perrin Sequence.",
+            "name": "SYNERGY SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceE"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Perrin Sequence.",
+            "name": "CALCULATING SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceD"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Perrin Sequence.",
+            "name": "OPPORTUNITY SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceC"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Perrin Sequence.",
+            "name": "PROGRESS SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceB"
+        },
+        {
+            "codexSecret": false,
+            "description": "Allows the wearer to gain reputation with the Perrin Sequence.",
+            "name": "PERRIN SEQUENCE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the New Loka.",
+            "name": "HUMANITY SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaK"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the New Loka.",
+            "name": "BOUNTY SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaJ"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the New Loka.",
+            "name": "GAIA SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaI"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the New Loka.",
+            "name": "PURITY SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaH"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the New Loka.",
+            "name": "BLOOM SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaG"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the New Loka.",
+            "name": "CLARITY SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaF"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the New Loka.",
+            "name": "GROWTH SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaE"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the New Loka.",
+            "name": "REBIRTH SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaD"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the New Loka.",
+            "name": "SEED SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaC"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the New Loka.",
+            "name": "SACRIFICE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaB"
+        },
+        {
+            "codexSecret": false,
+            "description": "Allows the wearer to gain reputation with the New Loka.",
+            "name": "NEW LOKA SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Conclave.",
+            "name": "FREEDOM SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveK"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Conclave.",
+            "name": "VOLITION SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveJ"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Conclave.",
+            "name": "AMBITION SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveI"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Conclave.",
+            "name": "DISCRETION SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveH"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Conclave.",
+            "name": "PRUDENCE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveG"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Conclave.",
+            "name": "DILIGENCE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveF"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Conclave.",
+            "name": "REVELATION SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveE"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Conclave.",
+            "name": "AWARENESS SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveD"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Conclave.",
+            "name": "PERCEPTION SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveC"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Conclave.",
+            "name": "AWAKENING SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveB"
+        },
+        {
+            "codexSecret": false,
+            "description": "Allows the wearer to gain reputation with the Conclave.",
+            "name": "CONCLAVE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Cephalon Suda.",
+            "name": "ORACLE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaK"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Cephalon Suda.",
+            "name": "HEXAN SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaJ"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Cephalon Suda.",
+            "name": "LABYRINTH SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaI"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Cephalon Suda.",
+            "name": "MULTIVARIATE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaH"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Cephalon Suda.",
+            "name": "FRACTAL SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaG"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Cephalon Suda.",
+            "name": "MANIFOLD SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaF"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Cephalon Suda.",
+            "name": "ATOMIC SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaE"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Cephalon Suda.",
+            "name": "PATTERN MATCH SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaD"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Cephalon Suda.",
+            "name": "SEARCHING SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaC"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Cephalon Suda.",
+            "name": "QUERY SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaB"
+        },
+        {
+            "codexSecret": false,
+            "description": "Allows the wearer to gain reputation with the Cephalon Suda.",
+            "name": "CEPHALON SUDA SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaA"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/SyndicateSigilAssassinsKDesc",
+            "name": "/Lotus/Language/Sigils/SyndicateSigilAssassinsKName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsK"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/SyndicateSigilAssassinsJDesc",
+            "name": "/Lotus/Language/Sigils/SyndicateSigilAssassinsJName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsJ"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/SyndicateSigilAssassinsIDesc",
+            "name": "/Lotus/Language/Sigils/SyndicateSigilAssassinsIName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsI"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/SyndicateSigilAssassinsHDesc",
+            "name": "/Lotus/Language/Sigils/SyndicateSigilAssassinsHName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsH"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/SyndicateSigilAssassinsGDesc",
+            "name": "/Lotus/Language/Sigils/SyndicateSigilAssassinsGName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsG"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/SyndicateSigilAssassinsFDesc",
+            "name": "/Lotus/Language/Sigils/SyndicateSigilAssassinsFName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsF"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/SyndicateSigilAssassinsEDesc",
+            "name": "/Lotus/Language/Sigils/SyndicateSigilAssassinsEName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsE"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/SyndicateSigilAssassinsDDesc",
+            "name": "/Lotus/Language/Sigils/SyndicateSigilAssassinsDName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsD"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/SyndicateSigilAssassinsCDesc",
+            "name": "/Lotus/Language/Sigils/SyndicateSigilAssassinsCName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsC"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/SyndicateSigilAssassinsBDesc",
+            "name": "/Lotus/Language/Sigils/SyndicateSigilAssassinsBName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsB"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/SyndicateSigilAssassinsADesc",
+            "name": "/Lotus/Language/Sigils/SyndicateSigilAssassinsAName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
+            "name": "TRUTH SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisK"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
+            "name": "SURPASSING SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisJ"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
+            "name": "SUCCESSION SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisI"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
+            "name": "POTENTIAL SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisH"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
+            "name": "GRASP SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisG"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
+            "name": "CHOICE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisF"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
+            "name": "WILL SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisE"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
+            "name": "DISCIPLINE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisD"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
+            "name": "BENDING WILL SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisC"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
+            "name": "GUIDING PATH SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisB"
+        },
+        {
+            "codexSecret": false,
+            "description": "Allows the wearer to gain reputation with the Arbiters of Hexis.",
+            "name": "ARBITER OF HEXIS SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisA"
+        },
+        {
+            "codexSecret": false,
+            "description": "This sigil depicts a tribal design that flickers mysteriously.",
+            "name": "FLICKERING SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SparkSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "[PH] Description",
+            "name": "[PH] RHINO DELUXE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/RhinoDeluxeSigil"
+        },
+        {
+            "codexSecret": true,
+            "description": "This exclusive sigil features prisma color gradients for maximum customization.",
+            "name": "PRISMA SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeTraderSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "This ancient glyph was the focus of an ancient Tenno meditation ritual.",
+            "name": "CYCUTA PRIME SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeAccessSigilSaryn"
+        },
+        {
+            "codexSecret": false,
+            "description": "Champions of the Orokin were allowed to wear this Sigil as proof of their loyalty.",
+            "name": "VERLORUM PRIME SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeAccessSigilFive"
+        },
+        {
+            "codexSecret": false,
+            "description": "Commemorates the Tenno who have honored the Lotus for two cycles.",
+            "name": "CYCLE TWO SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4TwoYearSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "Commemorates the Tenno who have honored the Lotus for three cycles.",
+            "name": "CYCLE THREE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4ThreeYearSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "Commemorates the Tenno who have honored the Lotus for one cycle.",
+            "name": "CYCLE ONE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4OneYearSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/PS4ExclusiveBundleSigilDesc",
+            "name": "/Lotus/Language/Sigils/PS4ExclusiveBundleSigilName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4ExclusiveBundleSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "This is a unique sigil depicting a mysterious creature of ancient Earth.",
+            "name": "Monquis Sigil",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MonquisSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Sigils/MonquisCYSigilDesc",
+            "name": "/Lotus/Language/Sigils/MonquisCYSigilName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MonquisCYSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "This sigil represents the pinacle of mastery within the Tenno.",
+            "name": "MASTERY SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MasterySigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno who assist the Lotus by helping other Tenno.",
+            "name": "GUIDE OF THE LOTUS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LotusGuideSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil containing a festive design.",
+            "name": "EVERGREEN SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014D"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil containing a festive design.",
+            "name": "TOLLING SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014C"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil containing a festive design.",
+            "name": "NISTLEBRUSH SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014B"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil containing a festive design.",
+            "name": "WREATH SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014A"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil containing a festive design.",
+            "name": "FESTIVE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilSnowflake"
+        },
+        {
+            "codexSecret": false,
+            "description": "This sigil belongs to one of the founding masters of the Tenno.",
+            "name": "MASTER SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilMaster"
+        },
+        {
+            "codexSecret": false,
+            "description": "This sigil belongs to one of the founding hunters of the Tenno.",
+            "name": "HUNTER SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilHunter"
+        },
+        {
+            "codexSecret": false,
+            "description": "This sigil belongs to one of the founding grand masters of the Tenno.",
+            "name": "GRAND MASTER SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilGrandMaster"
+        },
+        {
+            "codexSecret": false,
+            "description": "This sigil belongs to one of the founding disciples of the Tenno.",
+            "name": "DISCIPLE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilDisciple"
+        },
+        {
+            "codexSecret": true,
+            "description": "Do you even?",
+            "name": "FORMA SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FormaSigil"
+        },
+        {
+            "codexSecret": true,
+            "description": "This sigil burns with a cold flame.",
+            "name": "FLAMING SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FireSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "This sigil commemorates the Tenno victory over the machinations of Nef Anyo.",
+            "name": "FALSE PROFIT SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilFalseProfit"
+        },
+        {
+            "codexSecret": false,
+            "description": "This sigil is laced with energy from the Void.",
+            "name": "RIFT SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EnergySigilA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive sigil.",
+            "name": "DAY OF THE DEAD SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DotD2016Sigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting the emblem of the Zanuka Hunter.",
+            "name": "ZANUKA SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilZanuka"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting the emblem of the Stalker.",
+            "name": "STALKER SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilStalker"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting the emblem of the Grustrag Three.",
+            "name": "GRUSTRAG SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilGrustrag"
+        },
+        {
+            "codexSecret": false,
+            "description": "CEPHALON SIMARIS SIGIL",
+            "name": "CEPHALON SIMARIS SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CollectorSigil"
+        },
+        {
+            "codexSecret": true,
+            "description": "This sigil is worn by the members united within a Clan.",
+            "name": "GLYPHED CLAN SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilTwoTone"
+        },
+        {
+            "codexSecret": false,
+            "description": "This sigil is worn by the members united within a Clan.",
+            "name": "GILDED CLAN SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilMaskedEffect"
+        },
+        {
+            "codexSecret": true,
+            "description": "This sigil is worn by the members united within a Clan.",
+            "name": "PHASED CLAN SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilBasicAdd"
+        },
+        {
+            "codexSecret": true,
+            "description": "This sigil is worn by the members united within a Clan.",
+            "name": "CLAN SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilBasic"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting Councilor Vay Hek.",
+            "name": "VAY HEK SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilVayHek"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting Tyl Regor.",
+            "name": "TYL REGOR SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilTylRegor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting General Sargas Ruk.",
+            "name": "SARGAS RUK SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilSargusRuk"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting the Raptor.",
+            "name": "RAPTOR SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilRaptor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting the Phorid.",
+            "name": "PHORID SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilPhorid"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting Nef Anyo.",
+            "name": "NEF ANYO SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilNefAnyo"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting the Lynx.",
+            "name": "LYNX SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLynx"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting the Lephantis.",
+            "name": "LEPHANTIS SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLephantis"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting Lieutenant Lech Kril.",
+            "name": "LECH KRIL SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLechKril"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting the Jackal.",
+            "name": "JACKAL SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilJackal"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting the Hyena Pack.",
+            "name": "HYENA SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilHyenaPack"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting Captain Vor.",
+            "name": "VOR SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilCaptainVor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting the Ambulas.",
+            "name": "AMBULAS SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilAmbulas"
+        },
+        {
+            "codexSecret": false,
+            "description": "A sigil depicting Alad V.",
+            "name": "ALAD V SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilAladV"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to dedicated members within the Warframe community.",
+            "name": "BLADE AND GUN SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BladeAndGunSigil"
+        },
+        {
+            "codexSecret": false,
+            "description": "[PH] This sigil is worn by the members united within an Alliance.",
+            "name": "[PH] GLYPHED ALLIANCE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/AllianceSigilTwoTone"
+        },
+        {
+            "codexSecret": false,
+            "description": "[PH] This sigil is worn by the members united within an Alliance.",
+            "name": "[PH] ALLIANCE GILDED SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/AllianceSigilMaskedEffect"
+        },
+        {
+            "codexSecret": false,
+            "description": "This sigil is worn by the members united within an Alliance.",
+            "name": "ALLIANCE SIGIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/AllianceSigilBasic"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Sprite skin customization for the Shade Sentinel.",
+            "name": "SPRITE SHADE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/SpriteShadeSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "Para skin for the Carrier Sentinel.",
+            "name": "PARA CARRIER",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/ParrotCarrierSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Carabus skin customization for the Dethcube Sentinel.",
+            "name": "CARABUS DETHCUBE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/CarbuncleDethcubeSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "An ordinary Sentinel becomes extraordinary with striking prisma accessories.",
+            "name": "PRISMA JET SENTINEL WINGS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/PrismaJetWings"
+        },
+        {
+            "codexSecret": false,
+            "description": "A pair of wings for your sentinel pet.",
+            "name": "PARA SENTINEL WINGS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/ParrotWings"
+        },
+        {
+            "codexSecret": false,
+            "description": "A pair of wings for your sentinel pet.",
+            "name": "JET SENTINEL WINGS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/JetWings"
+        },
+        {
+            "codexSecret": false,
+            "description": "A pair of wings for your sentinel pet.",
+            "name": "CHRYSALIS SENTINEL WINGS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/InfestedWings"
+        },
+        {
+            "codexSecret": false,
+            "description": "A pair of wings for your sentinel pet.",
+            "name": "ICTUS SENTINEL WINGS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/IctusWings"
+        },
+        {
+            "codexSecret": false,
+            "description": "Golden accessories for Helios Prime.",
+            "name": "ICTUS PRIME WINGS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/IctusPrimeWings"
+        },
+        {
+            "codexSecret": false,
+            "description": "A pair of wings for your sentinel pet.",
+            "name": "DOME SENTINEL WINGS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/DomeWings"
+        },
+        {
+            "codexSecret": false,
+            "description": "A pair of wings for your sentinel pet.",
+            "name": "DIAMOND SENTINEL WINGS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/DiamondWings"
+        },
+        {
+            "codexSecret": false,
+            "description": "A pair of wings for your sentinel pet.",
+            "name": "COLTEK SENTINEL WINGS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/ColtekWings"
+        },
+        {
+            "codexSecret": false,
+            "description": "A stylish tail attachment for your sentinel pet.",
+            "name": "PARA SENTINEL TAIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/ParrotTail"
+        },
+        {
+            "codexSecret": false,
+            "description": "A stylish tail attachment for your sentinel pet.",
+            "name": "THORAX SENTINEL TAIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/InfestedTail"
+        },
+        {
+            "codexSecret": false,
+            "description": "A stylish tail attachment for your sentinel pet.",
+            "name": "ICTUS SENTINEL TAIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/IctusTail"
+        },
+        {
+            "codexSecret": false,
+            "description": "Golden accessories for Helios Prime.",
+            "name": "ICTUS PRIME TAIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/IctusPrimeTail"
+        },
+        {
+            "codexSecret": false,
+            "description": "A stylish tail attachment for your sentinel pet.",
+            "name": "KOI SENTINEL TAIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/FishTail"
+        },
+        {
+            "codexSecret": false,
+            "description": "A stylish tail attachment for your sentinel pet.",
+            "name": "COLTEK SENTINEL TAIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/ColtekTail"
+        },
+        {
+            "codexSecret": false,
+            "description": "A stylish tail attachment for your sentinel pet.",
+            "name": "CAPSULE SENTINEL TAIL",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/CapsuleTail"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Cephalon Simaris skin for the Helios sentinel.",
+            "name": "HELIOS SIMARIS SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/LibrarianHelios"
+        },
+        {
+            "codexSecret": false,
+            "description": "A mask attachment for your sentinel pet.",
+            "name": "PARA SENTINEL MASK",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/ParrotMask"
+        },
+        {
+            "codexSecret": false,
+            "description": "A mask attachment for your sentinel pet.",
+            "name": "MECH HEAD SENTINEL MASK",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/MechHeadMask"
+        },
+        {
+            "codexSecret": false,
+            "description": "A mask attachment for your sentinel pet.",
+            "name": "LOTUS SENTINEL MASK",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/LotusMask"
+        },
+        {
+            "codexSecret": false,
+            "description": "A mask attachment for your sentinel pet.",
+            "name": "KUBROW SENTINEL MASK",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/KubrowMask"
+        },
+        {
+            "codexSecret": false,
+            "description": "A mask attachment for your sentinel pet.",
+            "name": "MANDIBLE SENTINEL MASK",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/InfestedMask"
+        },
+        {
+            "codexSecret": false,
+            "description": "Golden accessories for Helios Prime.",
+            "name": "ICTUS PRIME MASK",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/IctusPrimeMask"
+        },
+        {
+            "codexSecret": false,
+            "description": "A mask attachment for your sentinel pet.",
+            "name": "ICTUS SENTINEL MASK",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/IctusMask"
+        },
+        {
+            "codexSecret": false,
+            "description": "A mask attachment for your sentinel pet.",
+            "name": "HUNHOW SENTINEL MASK",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/HunhowMask"
+        },
+        {
+            "codexSecret": false,
+            "description": "A mask attachment for your sentinel pet.",
+            "name": "COLTEK SENTINEL MASK",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/GunHeadMask"
+        },
+        {
+            "codexSecret": false,
+            "description": "Windswept ribbons of crimson evoke the war-kites of ancient earth.",
+            "name": "MOZI SYANDANA",
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TnGuandaoScarf"
+        },
+        {
+            "codexSecret": false,
+            "description": "Gara\u2019s signature syandana.",
+            "name": "HYALUS SYANDANA",
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TnGlassSyandana"
+        },
+        {
+            "codexSecret": false,
+            "description": "Mirage Prime\u2019s signature syandana.",
+            "name": "ABBERA PRIME SYANDANA",
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeScarfG"
+        },
+        {
+            "codexSecret": false,
+            "description": "Mag Pneuma\u2019s signature syandana.",
+            "name": "VASA SYANDANA",
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/MagDeluxeScarf"
+        },
+        {
+            "codexSecret": false,
+            "description": "Bloom into a beautiful yet deadly agent of the Lotus.",
+            "name": "SARYN ORPHID SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Saryn/SarynDeluxeSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Inaros Warframe.",
+            "name": "INAROS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SandmanHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Inaros.",
+            "name": "INAROS ANUBIS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SandmanAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "An alternate helmet for Inaros.",
+            "name": "INAROS CANOPIC HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SandmanAlt02Helmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet has been adorned with a fine layer of Rubedo plating.",
+            "name": "RHINO RUBEDO PLATED HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoRubedoSkinHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "This Rhino Warframe has been adorned with a fine layer of Rubedo plating.",
+            "name": "RHINO RUBEDO PLATED SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoRubedoSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Rhino Prime Warframe.",
+            "name": "RHINO PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoPrimeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Thrak Helmet for the Rhino Warframe.",
+            "name": "RHINO THRAK HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAltStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Vanguard Helmet for the Rhino Warframe.",
+            "name": "RHINO VANGUARD HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAltBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Rhino, and adds Speed, with a reduction to Ability Strength.",
+            "name": "ARCANE VANGUARD HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Rhino, and increases Health, but reduces Sprint Speed.",
+            "name": "ARCANE THRAK HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Rhino Warframe.",
+            "name": "RHINO HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Pay homage to warriors of a more chivalrous time with this skin.",
+            "name": "RHINO PALATINE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoDeluxeSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal Skin for the Rhino Warframe.",
+            "name": "RHINO IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet has been laced with filaments of burnished bronze.",
+            "name": "BRONZE RHINO HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/ChangYou/CYRhinoRubedoSkinHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "This Rhino Warframe has been been laced with filaments of burnished bronze.",
+            "name": "RHINO BRONZE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/ChangYou/CYRhinoRubedoSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "This Viper has been adorned with a fine layer of Rubedo plating.",
+            "name": "VIPER RUBEDO PLATED SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/ReferralSeriesTwo/RubedoViperCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "This Galatine has been adorned with a fine layer of Rubedo plating.",
+            "name": "GALATINE RUBEDO PLATED SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/ReferralSeriesTwo/RubedoGalatineCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "This Drakgoon has been adorned with a fine layer of Rubedo plating.",
+            "name": "DRAKGOON RUBEDO PLATED SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/ReferralSeriesTwo/RubedoDrakgoonCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "These Twin Vipers have been adorned with a fine layer of Rubedo plating.",
+            "name": "TWIN VIPERS RUBEDO PLATED SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/ReferralSeriesTwo/RubedoAkimboViperCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Items/RedVeilLatronSkinDesc",
+            "name": "/Lotus/Language/Items/RedVeilLatronSkinName",
+            "uniqueName": "/Lotus/Upgrades/Skins/RedVeil/LatronRedVeil"
+        },
+        {
+            "codexSecret": false,
+            "description": "An homage to hunters of the ancient past.",
+            "name": "IVARA LOXLEY HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ranger/RangerAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "An alternate helmet for Ivara.",
+            "name": "IVARA ZIRASTRA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ranger/RangerAlt02Helmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A mysterious relic, predating even the Orokin Empire.\r\n\r\n*Glaive not included.",
+            "name": "GLAIVE PROTO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Warframe/ProtoGlaive"
+        },
+        {
+            "codexSecret": true,
+            "description": "With it\u2019s constantly shifting finish of polished cloud-stone, the Paris Abra Skin is sure to impress.",
+            "name": "PARIS ABRA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Warframe/PromoParis"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Void's corrupting energy has scarred this weapon, leaving it permanently out of phase with conventional space.",
+            "name": "VASTO PHASED SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Void/VastoVoidSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Void's corrupting energy has scarred this weapon, leaving it permanently out of phase with conventional space.",
+            "name": "TIGRIS PHASED SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Void/TigrisVoidSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Void's corrupting energy has scarred this weapon, leaving it permanently out of phase with conventional space.",
+            "name": "ANKYROS PHASED SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Void/AnkyrosVoidSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Void's corrupting energy has scarred this weapon, leaving it permanently out of phase with conventional space.",
+            "name": "AKVASTO PHASED SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Void/AkvastosVoidSkin"
+        },
+        {
+            "codexSecret": true,
+            "description": "Celebrate the festive season by unleashing sweet minty death on all your favorite foes.",
+            "name": "SPEARMINT SCYTHE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/CandyCaneReaperPrimeSkin"
+        },
+        {
+            "codexSecret": true,
+            "description": "Celebrate the festive season by unleashing sweet minty death on all your favorite foes.",
+            "name": "SPEARMINT SCYTHE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/CandyCaneHateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "Celebrate the festive season by unleashing sweet minty death on all your favorite foes.",
+            "name": "SPEARMINT SCYTHE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/CandyCaneEtherReaperSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The RixtyMOL Aklato skin.",
+            "name": "RixtyMOL Aklato",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/RixtyMOL/RixtyMOLAklatoSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A next-generation skin for Excalibur.",
+            "name": "EXCALIBUR JADE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Microsoft/ExcaliburXBoneSkinHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A next-generation skin for Excalibur.",
+            "name": "EXCALIBUR JADE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Microsoft/ExcaliburXBoneSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "This Galatine has been been laced with filaments of burnished bronze.",
+            "name": "GALATINE BRONZE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/ChangYou/CYRubedoGalatineCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "This Drakgoon has been been laced with filaments of burnished bronze.",
+            "name": "DRAKGOON BRONZE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/ChangYou/CYRubedoDrakgoonCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Harrow.",
+            "name": "HARROW SUFFRAGAN HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Priest/PriestHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Hydroid Warframe.",
+            "name": "HYDROID HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Pirate/PirateDefaultHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "An alternative helmet for the Hydroid Warframe.",
+            "name": "HYDROID TRITON HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Pirate/PirateAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Hydroid.",
+            "name": "HYDROID KETOS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Pirate/PirateAltBHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal Skin for the Hydroid Warframe.",
+            "name": "HYDROID IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Pirate/HydroidAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Oberon.",
+            "name": "OBERON MARKHOR HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Paladin/PaladinHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Oberon.",
+            "name": "OBERON ORYX HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Paladin/PaladinHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Oberon Warframe.",
+            "name": "OBERON HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Paladin/PaladinHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Emerge from the darkened forest with this gnarled old soul.",
+            "name": "OBERON FEYARCH SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Paladin/PaladinDeluxeSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Oberon Warframe.",
+            "name": "OBERON IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Paladin/OberonAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "Sleeves for an operator outfit.",
+            "name": "SAITA PRIME SLEEVES",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Leggings for an operator outfit.",
+            "name": "SAITA PRIME LEGGINGS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A hood belonging to an operator outfit.",
+            "name": "SAITA PRIME HOOD",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A suit of an operator outfit.",
+            "name": "SAITA PRIME SUIT",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Crafted with surety of purpose, and clarity of vision.",
+            "name": "VAHD GREAVES",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourLegs"
+        },
+        {
+            "codexSecret": false,
+            "description": "Crafted with surety of purpose, and clarity of vision.",
+            "name": "VAHD MASK",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourHead"
+        },
+        {
+            "codexSecret": false,
+            "description": "Crafted with surety of purpose, and clarity of vision.",
+            "name": "VAHD CUIRASS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourBody"
+        },
+        {
+            "codexSecret": false,
+            "description": "Crafted with surety of purpose, and clarity of vision.",
+            "name": "VAHD PAULDRONS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourArms"
+        },
+        {
+            "codexSecret": false,
+            "description": "An armor design honoring the monastic legacy of the Quills.",
+            "name": "CENO GREAVES",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourLegs"
+        },
+        {
+            "codexSecret": false,
+            "description": "An armor design honoring the monastic legacy of the Quills.",
+            "name": "CENO HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourHead"
+        },
+        {
+            "codexSecret": false,
+            "description": "An armor design honoring the monastic legacy of the Quills.",
+            "name": "CENO CUIRASS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourBody"
+        },
+        {
+            "codexSecret": false,
+            "description": "An armor design honoring the monastic legacy of the Quills.",
+            "name": "CENO PAULDRONS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourArms"
+        },
+        {
+            "codexSecret": false,
+            "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind.",
+            "name": "ZAUBA GREAVES",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourLegs"
+        },
+        {
+            "codexSecret": false,
+            "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind.",
+            "name": "ZAUBA MASK",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourHead"
+        },
+        {
+            "codexSecret": false,
+            "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind.",
+            "name": "ZAUBA CUIRASS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourBody"
+        },
+        {
+            "codexSecret": false,
+            "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind.",
+            "name": "ZAUBA PAULDRONS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourArms"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Nvidia Braton skin.",
+            "name": "NVIDIA BRATON",
+            "uniqueName": "/Lotus/Upgrades/Skins/Nvidia/NvidiaBratonSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A helmet for the Ash Warframe, designed by artarrwen.\r\n\r\n<UGC> TennoGen",
+            "name": "ASH CARABID HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ninja/SWRSixAshCarabidHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Scorpion Helmet for the Ash Warframe.",
+            "name": "ASH SCORPION HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmetAltStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Locust Helmet for the Ash Warframe.",
+            "name": "ASH LOCUST HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmetAltBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Ash, and adds Energy Capacity, with a reduction to Speed.",
+            "name": "ARCANE LOCUST HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Ash, and increases duration of Aim Glide and Wall Latch, but reduces Ability Efficiency.",
+            "name": "ARCANE SCORPION HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Ash Warframe.",
+            "name": "ASH HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Emerge from the dark smoke of battle as a new vision of the master spy.",
+            "name": "ASH KOGA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaDeluxeSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Ash Warframe.",
+            "name": "ASH IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ninja/AshAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A different look for Nezha.",
+            "name": "NEZHA CIRCA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A specter of destruction, Nekros breaks free of the underworld with this haunting skin.",
+            "name": "NEKROS IRKALLA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Necro/NekrosDeluxeSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Nekros Warframe.",
+            "name": "NEKROS IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Necro/NekrosAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "Strike fear into enemies with this alternate helmet for Nekros.",
+            "name": "NEKROS SHROUD HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Necro/NecroShroudHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Nekros Warframe.",
+            "name": "NEKROS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Necro/NecroHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Only Nekros is permitted to wear the Mortos Binds.",
+            "name": "MORTOS BINDS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Necro/NecroDangles"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Raknis helmet provides a terrifying visage for your Nekros Warframe.",
+            "name": "NEKROS RAKNIS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Necro/NecroAraknidHelmet"
+        },
+        {
+            "codexSecret": true,
+            "description": "A stylish moustache for your Warframe.",
+            "name": "THE BARON",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache05"
+        },
+        {
+            "codexSecret": true,
+            "description": "A stylish moustache for your Warframe.",
+            "name": "THE VILLAIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache04"
+        },
+        {
+            "codexSecret": true,
+            "description": "A stylish moustache for your Warframe.",
+            "name": "THE MAGNUM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache03"
+        },
+        {
+            "codexSecret": true,
+            "description": "A stylish moustache for your Warframe.",
+            "name": "THE TUSKER",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache02"
+        },
+        {
+            "codexSecret": true,
+            "description": "A stylish moustache for your Warframe.",
+            "name": "THE GENTLEMAN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache"
+        },
+        {
+            "codexSecret": false,
+            "description": "An alternative helmet for the Wukong Warframe.",
+            "name": "WUKONG MACAK HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/MonkeyKingAltHelmetB"
+        },
+        {
+            "codexSecret": false,
+            "description": "An alternative helmet for the Wukong Warframe.",
+            "name": "WUKONG DASHENG HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/MonkeyKingAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "This unique casing for the Soma was crafted from the oldest trees on Earth, and entwined in golden trimming.",
+            "name": "SOMA HUNTSMAN SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Miscellaneous/HuntsmanSoma"
+        },
+        {
+            "codexSecret": false,
+            "description": "A prized relic from the Orokin era. These ornaments decorated the weapons of their military vanguard.",
+            "name": "VALA SUGATRA PRIME",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/ValaPrimeMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "This sugatra is favoured by Tenno participating in the Conclave, as it is a symbol of unity and conviction.",
+            "name": "PATAGA SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/TennoMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "An elegant clasp terminates in five golden points.",
+            "name": "AROKA PRIME SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/SurakaPrimeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "With a form that echos the sails of ancient sea ships, this sugatra creates a commanding silhouette on any weapon.",
+            "name": "NAVIGA PRIME SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/ScrollingPrimeMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "Expressing the martial finesse and skill of its master, the Uru Sugatra complements the Uru Syandana used in the Tenno Absolution Ceremony.",
+            "name": "URU SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/RazorMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "A rare jewel from the old empire. Daman Sugatra Prime is crafted from some of the most scarce resources in the System.",
+            "name": "DAMAN SUGATRA PRIME",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/PrimeMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "Hook these silvery sleek sugatra onto any blade.",
+            "name": "SARDIN PRIME SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/PrimeDangleEMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "Expressing the martial finesse and skill of its master, the Daman Sugatra follows a rare Orokin design.",
+            "name": "DAMAN SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/PolearmFriendlyMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "The signature sugatra of Nekros Irkalla.",
+            "name": "THANATOS SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/NekrosDeluxeMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "Expressing the martial finesse and skill of its master, the Suraka Sugatra uses an ancient Tenno ceremonial design.",
+            "name": "SURAKA SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LotusPointMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "Arcing bolts of electricity highlight this golden chain Sugatra.",
+            "name": "KAZERU PRIME SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/KazeruPrimeMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "Ripped from the blade of a fallen Kuva Guardian.",
+            "name": "KUVA CORD",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/GrnQueensMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "Only Grineer who have proven their strength in combat can brandish these.",
+            "name": "CAGGRO SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/GrnMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "During the height of the Old War, Tenno raiders used these flaming sugatras to intimidate and distract enemies.",
+            "name": "PYRA SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/FireMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "A disgusting little nib of flesh to infest the hilt of any melee weapon.",
+            "name": "TENTACYST",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/EmbolistMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "Fashioned by frontline grunts, this military-grade weapon embellishment was built to withstand the stresses of combat.",
+            "name": "BOLOKET SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/ESGrnSugatraMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "Expressing the martial finesse and skill of its master, the Tantu Sugatra is based on a Grineer design.",
+            "name": "TANTU SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/CordsMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "Expressing the martial finesse and skill of its master, the Pazza Sugatra is based on a Corpus design.",
+            "name": "PAZZA SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/ChainTridentMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "An Orokin relic of the highest distinction.",
+            "name": "CATENO PRIME SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/CatenoPrimeMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "This matching sugatra for the Anpu Staff Skin will add a dash of elegance to any melee weapon.",
+            "name": "ANPU SUGATRA",
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/BaroInarosMeleeDangle"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Limbo Warframe.",
+            "name": "LIMBO HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Magician/MagicianHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Limbo.",
+            "name": "LIMBO ARISTEAS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Magician/MagicianAristeasHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Limbo.",
+            "name": "LIMBO MAGRITE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Magician/MagicianAltBHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Mag Prime Warframe.",
+            "name": "MAG PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagPrimeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Coil Helmet for the Mag Warframe.",
+            "name": "MAG COIL HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAltStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Gauss Helmet for the Mag Warframe.",
+            "name": "MAG GAUSS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAltBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Mag, and adds Max Energy, with a reduction to Speed.",
+            "name": "ARCANE GAUSS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Mag, gives increased Ability Range with a drain on Shields.",
+            "name": "ARCANE COIL HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Mag Warframe.",
+            "name": "MAG HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Breathe new life into Mag with her lavish new form.",
+            "name": "MAG PNEUMA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagDeluxeSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Mag Warframe.",
+            "name": "MAG IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Items/LotusSkinDesc",
+            "name": "/Lotus/Language/Items/LotusSkinName",
+            "uniqueName": "/Lotus/Upgrades/Skins/Lotus/LotusSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "/Lotus/Language/Items/LotusDefaultHelmetDesc",
+            "name": "/Lotus/Language/Items/LotusDefaultHelmet",
+            "uniqueName": "/Lotus/Upgrades/Skins/Lotus/LotusHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Loki Prime Warframe.",
+            "name": "LOKI PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiPrimeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Essence Helmet for the Loki Warframe.",
+            "name": "LOKI ESSENCE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAltStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Swindle Helmet for the Loki Warframe.",
+            "name": "LOKI SWINDLE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAltBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Loki, and adds Ability Range, with a reduction to Health.",
+            "name": "ARCANE SWINDLE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Loki, increases Ability Efficiency, but reduces Armor.",
+            "name": "ARCANE ESSENCE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Loki Warframe.",
+            "name": "LOKI HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Loki.",
+            "name": "LOKI ENIGMA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiEnigmaHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A new guise for an old trickster.",
+            "name": "LOKI KNAVE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiDeluxeSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Loki Warframe.",
+            "name": "LOKI IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive fur pattern for a Kubrow",
+            "name": "SOLSTICE KUBROW FUR PATTERN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Fur/SolsticeKubrowFur"
+        },
+        {
+            "codexSecret": false,
+            "description": "Records the genetic memory and DNA sequence of a Kubrow, allowing it to be reconstructed in the Incubator.",
+            "name": "KAVASA PRIME KUBROW COLLAR",
+            "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Collars/PrimeKubrowCollarA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Drahks are outfitted with this armor for the Queens\u2019 royal prisoner hunts.",
+            "name": "KUVA KUBROW ARMOR",
+            "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Armor/GrineerQueenArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Repaired with golden-alloys, this battle-scarred Bo has been transformed into an object of beauty.",
+            "name": "BO KINTSUGI SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Kintsukuroi/KintsukuroiStaff"
+        },
+        {
+            "codexSecret": false,
+            "description": "Repaired with golden-alloys, this battle-scarred Skana has been transformed into an object of beauty.",
+            "name": "SKANA KINTSUGI SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Kintsukuroi/KintsukuroiSkana"
+        },
+        {
+            "codexSecret": false,
+            "description": "Repaired with golden-alloys, this battle-scarred Paris has been transformed into an object of beauty.",
+            "name": "PARIS KINTSUGI SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Kintsukuroi/KintsukuroiParis"
+        },
+        {
+            "codexSecret": false,
+            "description": "Repaired with golden-alloys, this battle-scarred Lato has been transformed into an object of beauty.",
+            "name": "LATO KINTSUGI SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Kintsukuroi/KintsukuroiLato"
+        },
+        {
+            "codexSecret": false,
+            "description": "Repaired with golden-alloys, this battle-scarred Kunai has been transformed into an object of beauty.",
+            "name": "KUNAI KINTSUGI SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Kintsukuroi/KintsukuroiKunai"
+        },
+        {
+            "codexSecret": false,
+            "description": "Repaired with golden-alloys, this battle-scarred Braton has been transformed into an object of beauty.",
+            "name": "BRATON KINTSUGI SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Kintsukuroi/KintsukuroiBraton"
+        },
+        {
+            "codexSecret": false,
+            "description": "Repaired with golden-alloys, this battle-scarred Aklato has been transformed into an object of beauty.",
+            "name": "AKLATO KINTSUGI SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Kintsukuroi/KintsukuroiAklato"
+        },
+        {
+            "codexSecret": false,
+            "description": "Dragon Nikana causes the Gemini Sheath to rage with molten fury.",
+            "name": "NIKANA GEMINI SURT-FORM SHEATH",
+            "uniqueName": "/Lotus/Upgrades/Skins/KatanaSheaths/DragonKatanaSheathLightning"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Nyx Prime Warframe.",
+            "name": "NYX PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/NyxPrimeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A striking armor design of unknown origin. Extensive scans of the Orokin record reveal nothing.\r\n\r\n*Nyx not included.",
+            "name": "NYX NEMESIS SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/NyxNemesisSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Nyx Warframe.",
+            "name": "NYX IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/NyxAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "Menticide Helmet for the Nyx Warframe.",
+            "name": "NYX MENTICIDE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAltStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Vespa Helmet for the Nyx Warframe.",
+            "name": "NYX VESPA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAltBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Nyx, and adds Ability Efficiency, with a reduction to Armor.",
+            "name": "ARCANE VESPA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Nyx, and increases velocity of parkour maneuvers, but reduces Shields.",
+            "name": "ARCANE MENTICIDE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Nyx Warframe.",
+            "name": "NYX HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Nidus Warframe.",
+            "name": "NIDUS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Infestation/InfestationHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Nidus.",
+            "name": "NIDUS PRION HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Infestation/InfestationAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The IAHGames Braton skin.",
+            "name": "IAHGAMES BRATON",
+            "uniqueName": "/Lotus/Upgrades/Skins/IAHGames/IAHGamesBratonSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A Heavy Axe variation that grants additional damage but with a decrease in swing speed.",
+            "name": "SCINDO MANTICORE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/HeavyAxe/GrnAxe"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive skin for the Mirage Warframe.",
+            "name": "MIRAGE WINTER SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageXmasSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Mirage Prime Warframe.",
+            "name": "MIRAGE PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MiragePrimeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Mirage.",
+            "name": "MIRAGE TRIVELIN HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageAltBHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Mirage.",
+            "name": "MIRAGE HARLEQUIN HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/HarlequinHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Mirage Warframe.",
+            "name": "MIRAGE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/HarlequinHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A Harkonar styled Kohm, forged by the leading Grineer weapon manufacturer.",
+            "name": "KOHM HARKONAR SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Harkonar/HarkonarGrnSpark"
+        },
+        {
+            "codexSecret": false,
+            "description": "A Harkonar styled Javlok, forged by the leading Grineer weapon manufacturer.",
+            "name": "JAVLOK HARKONAR SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Harkonar/HarkonarGrnFlameSpear"
+        },
+        {
+            "codexSecret": false,
+            "description": "A Harkonar styled Grinlok, forged by the leading Grineer weapon manufacturer.",
+            "name": "GRINLOK HARKONAR SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Harkonar/HarkonarGLARifle"
+        },
+        {
+            "codexSecret": false,
+            "description": "A Harkonar styled Marelok, forged by the leading Grineer weapon manufacturer.",
+            "name": "MARELOK HARKONAR SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Harkonar/HarkonarGLAPistol"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive skin for the Heliocor.",
+            "name": "HELIOCOR SOLSTICE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Hammer/SolsticeHeliocor"
+        },
+        {
+            "codexSecret": false,
+            "description": "This variation of the Hammer has 5% faster swing speed, but 10% lower channeling efficiency.",
+            "name": "FRAGOR BROKK SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Hammer/GrnHammer"
+        },
+        {
+            "codexSecret": false,
+            "description": "Those who risked everything to exact justice for the Tenno are honored with this Sekhara.",
+            "name": "SEVATI SEKHARA",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halos/PrototypeRaidHalo"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Vasto.",
+            "name": "VASTO DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenVasto"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Twin Gremlins.",
+            "name": "GREMLINS DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenTwinGremlins"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Twin Grakatas.",
+            "name": "TWIN GRAKATAS DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenTwinGrakatas"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Tonkor.",
+            "name": "TONKOR DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenTonkor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Stradavar.",
+            "name": "STRADAVAR DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenStradavar"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Spira.",
+            "name": "SPIRA DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenSpira"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Sonicor.",
+            "name": "SONICOR DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenSonicor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Soma.",
+            "name": "SOMA DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenSoma"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Sobek.",
+            "name": "SOBEK DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenSobek"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Skana.",
+            "name": "SKANA DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenSkana"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Simulor.",
+            "name": "SIMULOR DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenSimulor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Silva & Aegis.",
+            "name": "SILVA & AEGIS DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenSilvaAndAegis"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Scindo.",
+            "name": "SCINDO DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenScindo"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Sarpa.",
+            "name": "SARPA DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenSarpa"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Ack & Brunt.",
+            "name": "ACK & BRUNT DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenRegorAxeShield"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Paris.",
+            "name": "PARIS DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenParis"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Orthos.",
+            "name": "ORTHOS DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenOrthos"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Opticor.",
+            "name": "OPTICOR DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenOpticor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Nukor.",
+            "name": "NUKOR DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenNukor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Nikana.",
+            "name": "NIKANA DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenNikana"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Marelok.",
+            "name": "MARELOK DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenMarelok"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Lato Vandal.",
+            "name": "LATO VANDAL DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenLatoVandal"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Lato.",
+            "name": "LATO DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenLato"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Kunai.",
+            "name": "KUNAI DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenKunai"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Kronen.",
+            "name": "KRONEN DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenKronen"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Jat Kittag.",
+            "name": "JAT KITTAG DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenJatKittag"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Imperator.",
+            "name": "IMPERATOR DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenImperator"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Grinlok.",
+            "name": "GRINLOK DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenGrinlok"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Grakata.",
+            "name": "GRAKATA DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenGrakata"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Gorgon.",
+            "name": "GORGON DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenGorgon"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Glaxion.",
+            "name": "GLAXION DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenGlaxion"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Glaive.",
+            "name": "GLAIVE DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenGlaive"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Galatine.",
+            "name": "GALATINE DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenGalatine"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Dual Zoren.",
+            "name": "DUAL ZOREN DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenDualZoren"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Dragon Nikana.",
+            "name": "DRAGON NIKANA DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenDragonNikana"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Dark Split-Sword.",
+            "name": "DARK SPLIT-SWORD DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenDarkSplitSword"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Dark Dagger.",
+            "name": "DARK DAGGER DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenDarkDagger"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Daikyu.",
+            "name": "DAIKYU DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenDaikyu"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Buzlok.",
+            "name": "BUZLOK DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenBuzlok"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Braton.",
+            "name": "BRATON DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenBraton"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Boltor.",
+            "name": "BOLTOR DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenBoltor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Veritux.",
+            "name": "VERITUX DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenArchSword"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Angstrum.",
+            "name": "ANGSTRUM DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenAngstrum"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Amprex.",
+            "name": "AMPREX DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenAmprex"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Akvasto.",
+            "name": "AKVASTO DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenAkvasto"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive skin for the Lato.",
+            "name": "AKLATO DAY OF THE DEAD SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenAklato"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Vectis.",
+            "name": "VECTIS FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestVectis"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Vasto.",
+            "name": "VASTO FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestVasto"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Soma.",
+            "name": "SOMA FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestSoma"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Scindo.",
+            "name": "SCINDO FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestScindo"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Paris.",
+            "name": "PARIS FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestParis"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Orthos.",
+            "name": "ORTHOS FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestOrthos"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Heat Sword.",
+            "name": "HEAT SWORD FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestHeatSword"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Heat Dagger.",
+            "name": "HEAT DAGGER FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestHeatDagger"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Furis.",
+            "name": "FURIS FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestFuris"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Dual Zoren.",
+            "name": "DUAL ZOREN FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestDualZoren"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Akvasto.",
+            "name": "AKVASTO FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestDualVastos"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Dual Heat Swords.",
+            "name": "DUAL HEAT SWORDS FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestDualHeatSwords"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Dethcube.",
+            "name": "DETHCUBE FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestDethcube"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Braton and Braton Vandal.",
+            "name": "BRATON FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestBraton"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Boltor.",
+            "name": "BOLTOR FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestBoltor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Ballistica.",
+            "name": "BALLISTICA FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestBallistica"
+        },
+        {
+            "codexSecret": false,
+            "description": "Forest camouflage skin for the Afuris.",
+            "name": "AFURIS FOREST-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestAfuris"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Gara.",
+            "name": "GARA VIRAGO HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Glass/GlassAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive skin for the Frost Warframe.",
+            "name": "FROST FESTIVE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostXmasSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Frost Prime Warframe.",
+            "name": "FROST PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostPrimeHelmet"
+        },
+        {
+            "codexSecret": true,
+            "description": "The Immortal skin for the Frost Prime Warframe.",
+            "name": "FROST PRIME IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostPrimeAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "Aurora Helmet for the Frost Warframe.",
+            "name": "FROST AURORA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAltStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Squall Helmet for the Frost Warframe.",
+            "name": "FROST SQUALL HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAltBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Frost, and adds Ability Strength, with a reduction to Shields.",
+            "name": "ARCANE SQUALL HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Frost, increases Armor at the expense of Health.",
+            "name": "ARCANE AURORA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Frost Warframe.",
+            "name": "FROST HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "From winter\u2019s forest a dark warrior emerges to protect his flock.",
+            "name": "FROST HARKA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostDeluxeSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Frost Warframe.",
+            "name": "FROST IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive skin for the Glaxion.",
+            "name": "GLAXION FESTIVE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Festivities/XmasGlaxion"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive skin for the Titania Warframe.",
+            "name": "TITANIA SOLSTICE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Fairy/SolsticeFairySkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Titania.",
+            "name": "TITANIA AURAI HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Fairy/FairyAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Excalibur Warframe.",
+            "name": "EXCALIBUR HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/GeoffcaliburHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Discovering the precise nature of this recently uncovered armored prototype has proved elusive. Initial attempts at dating point to ancient origins, perhaps even predating Orokin Empire. \r\n\r\n*Excalibur not included.",
+            "name": "EXCALIBUR PROTO-ARMOR SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburProtoSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "Discovering the precise nature of this recently uncovered armored prototype has proved elusive. Initial attempts at dating point to ancient origins, perhaps even predating Orokin Empire. \r\n\r\n*Excalibur not included.",
+            "name": "EXCALIBUR PROTO-ARMOR HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburProtoHelmet"
+        },
+        {
+            "codexSecret": true,
+            "description": "The standard issue helmet for the Excalibur Prime Warframe.",
+            "name": "EXCALIBUR PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburPrimeHelmet"
+        },
+        {
+            "codexSecret": true,
+            "description": "The Immortal skin for the Excalibur Prime Warframe.",
+            "name": "EXCALIBUR PRIME IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburPrimeAlternateSkin"
+        },
+        {
+            "codexSecret": true,
+            "description": "An alternate body skin for Excalibur Prime",
+            "name": "ALABASTER SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburPrimeAlabasterSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Excalibur.",
+            "name": "EXCALIBUR MORDRED HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetMordred"
+        },
+        {
+            "codexSecret": false,
+            "description": "Avalon Helmet for the Excalibur Warframe.",
+            "name": "EXCALIBUR AVALON HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAltStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Pendragon Helmet for the Excalibur Warframe.",
+            "name": "EXCALIBUR PENDRAGON HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAltBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Excalibur, and adds Ability Strength, with a reduction to Armor.",
+            "name": "ARCANE PENDRAGON HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Excalibur, increases Shields at the expense of Health.",
+            "name": "ARCANE AVALON HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Excalibur Warframe.",
+            "name": "EXCALIBUR HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Excalibur Warframe.",
+            "name": "EXCALIBUR IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A unique customization for the Glaxion.",
+            "name": "GLAXION POLAR SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Events/GlaxionPolar"
+        },
+        {
+            "codexSecret": false,
+            "description": "A stylish accessory for your Warframe.",
+            "name": "LEPUS HEADGEAR",
+            "uniqueName": "/Lotus/Upgrades/Skins/Events/BunnyEars"
+        },
+        {
+            "codexSecret": true,
+            "description": "The Void's corrupting energy has scarred this Orthos, leaving it permanently out of phase with conventional space.",
+            "name": "ORTHOS PHASED SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Events/BlackoutOrthos"
+        },
+        {
+            "codexSecret": false,
+            "description": "A unique skin for the Fluctus.",
+            "name": "FLUCTUS RAHK SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Events/ArchRocketCrossbowGrineer"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Ember Prime Warframe.",
+            "name": "EMBER PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberPrimeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Phoenix Helmet for the Ember Warframe.",
+            "name": "EMBER PHOENIX HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAltStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Backdraft Helmet for the Ember Warframe.",
+            "name": "EMBER BACKDRAFT HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAltBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Ember, and adds Health, with a reduction to Speed.",
+            "name": "ARCANE BACKDRAFT HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAltB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Ember, and reduces Shields in order to boost Energy Capacity.",
+            "name": "ARCANE PHOENIX HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAlt"
+        },
+        {
+            "codexSecret": false,
+            "description": "From the ashes of battle a flamboyant new Ember rises.",
+            "name": "EMBER VERMILLION SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberDeluxeSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Ember Warframe.",
+            "name": "EMBER IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "Replaces the edges of the Dual Zoren with multiple Rubedo blades.",
+            "name": "DUAL ZOREN DAGGER-AXE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/DualAxe/DaggerAxe"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Chroma Warframe.",
+            "name": "CHROMA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dragon/DragonHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Chroma.",
+            "name": "CHROMA DRAC HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dragon/DragonAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Behold, a new elemental king.",
+            "name": "CHROMA DYNASTY SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dragon/ChromaDeluxeSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Chroma.",
+            "name": "CHROMA AMARU HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dragon/ChromaAltBHelmet"
+        },
+        {
+            "codexSecret": true,
+            "description": "The Agile Animation Set for Chroma.",
+            "name": "CHROMA AGILE ANIMATION SET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dragon/ChromaAgileAnims"
+        },
+        {
+            "codexSecret": false,
+            "description": "A helmet for the Banshee Warframe, designed by Rekkou.\r\n\r\n<UGC> TennoGen",
+            "name": "BANSHEE ECHO HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/SWRSixBansheeEchoHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A helmet for the Banshee Warframe, designed by led2012.\r\n\r\n<UGC> TennoGen",
+            "name": "BANSHEE DOMINIA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/SWDominiaHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Banshee Warframe.",
+            "name": "BANSHEE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Reverb Helmet for the Banshee Warframe.",
+            "name": "BANSHEE REVERB HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmetStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Chorus Helmet for the Banshee Warframe.",
+            "name": "BANSHEE CHORUS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmetBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Banshee, and adds Ability Efficiency, but reduces duration of Aim Glide and Wall Latch.",
+            "name": "ARCANE CHORUS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmetB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Banshee, and grants Max Energy Boost, with a reduction to Health.",
+            "name": "ARCANE REVERB HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Banshee Prime Warframe.",
+            "name": "BANSHEE PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/BansheePrimeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Sleek and stylish, Banshee Soprana sings a song of devastation.",
+            "name": "BANSHEE SOPRANA SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/BansheeDeluxeSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Banshee Warframe.",
+            "name": "BANSHEE IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Decree/BansheeAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Tetra.",
+            "name": "TETRA SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/TetraDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Supra.",
+            "name": "SUPRA SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/SupraDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Spectra.",
+            "name": "SPECTRA SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/SpectraDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Snipetron.",
+            "name": "SNIPETRON SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/SnipetronDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Prova.",
+            "name": "PROVA SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/ProvaDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Penta.",
+            "name": "PENTA SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/PentaDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Opticor.",
+            "name": "OPTICOR SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/OpticorDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Obex.",
+            "name": "OBEX SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/ObexDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Lecta.",
+            "name": "LECTA SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/LectaDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Lanka.",
+            "name": "LANKA SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/LankaDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Flux Rifle.",
+            "name": "FLUX RIFLE SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/FluxRifleDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Dual Cestra.",
+            "name": "DUAL CESTRA SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/DualCestraDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Detron.",
+            "name": "DETRON SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/DetronDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Dera.",
+            "name": "DERA SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/DeraDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Cestra.",
+            "name": "CESTRA SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/CestraDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Shock-Camo skin for the Braton.",
+            "name": "BRATON SHOCK-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/BratonDazzleCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Mesa.",
+            "name": "MESA OVIS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaAltBHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Mesa Warframe.",
+            "name": "MESA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/CowgirlHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Mesa.",
+            "name": "MESA LONGHORN HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/CowgirlAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A prize-winning skin for the Vectis, designed by StratoS117.\r\n\r\n\r\n<UGC> TennoGen",
+            "name": "VECTIS SHARPSHOOTER SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Contests/LongGuns/VectisSharpshooter"
+        },
+        {
+            "codexSecret": false,
+            "description": "A special emblem worn only by a select few Tenno.",
+            "name": "TENNO CHRONICLER EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/WikiaBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "A special emblem worn only by a select few Tenno.",
+            "name": "TENNO OPERATIVE EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/TranslatorBadgeItem"
+        },
+        {
+            "codexSecret": true,
+            "description": "Bestowed upon those who joined together in celebration at TennoCon 2016.",
+            "name": "TENNOCON EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/TennoCon2016BadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An insignia awarded to the Tenno who proved themselves during Survival event.",
+            "name": "SURVIVAL EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/SurvivalEventBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An insignia awarded to the Tenno Elite who proved themselves during Operation Sling-Stone.",
+            "name": "SLING STONE EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/SlingStoneEmblemItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An insignia awarded to the Tenno Elite who proved themselves during Operation Eyes of Blight.",
+            "name": "EYES OF BLIGHT EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/SlingStone2EmblemItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno who achieved a Silver Rank on the retired Global Leaderboards.",
+            "name": "SILVER SKULL EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/SkullBadgeSilverItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno who achieved a Gold Rank on the retired Global Leaderboards.",
+            "name": "GOLD SKULL EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/SkullBadgeGoldItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno who achieved a Bronze Rank on the retired Global Leaderboards.",
+            "name": "BRONZE SKULL EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/SkullBadgeBronzeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An insignia awarded to the Tenno who distinguished themselves during Tethra's Doom event.",
+            "name": "TETHRA'S DOOM QUANTUM EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/ShipyardsEventQuantumBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An insignia awarded to the Tenno who distinguished themselves during Tethra's Doom event.",
+            "name": "TETHRA'S DOOM EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/ShipyardsEventBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Those who risked everything to exact justice for the Tenno are honored with this Sekhara.",
+            "name": "SEVATI SEKHARA",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/SevantiHaloBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded for the safe return of Red Veil Operatives during the Specters of Liberty operation.",
+            "name": "SPECTERS OF LIBERTY EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/RescueEventBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "[PH]",
+            "name": "[PH]",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/ReferralBadgeTierEItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "[PH]",
+            "name": "[PH]",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/ReferralBadgeTierDItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "[PH]",
+            "name": "[PH]",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/ReferralBadgeTierCItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "[PH]",
+            "name": "[PH]",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/ReferralBadgeTierBItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "[PH]",
+            "name": "[PH]",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/ReferralBadgeTierAItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno for their contribution during Operation Gate Crash.",
+            "name": "GATE CRASH EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/OrokinSabotageBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Created as a meditation on the ever expanding ribbon of energy that runs through the universe.",
+            "name": "ASERON SEKHARA",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/NightmareSevantiHaloBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno who participated in the Mutalist Incursions event.",
+            "name": "MUTALIST INCURSIONS EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/MutalistIncursionsBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno who assist the Lotus by helping other Tenno.",
+            "name": "TENNO MENTOR EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/LotusGuideBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Designates the wearer as the highest ranking soldier amongst Storm-Tier Clans this era.",
+            "name": "STORM LEADER EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/LeaderBadgeStormItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Designates the wearer as the highest ranking soldier amongst Shadow-Tier Clans this era.",
+            "name": "SHADOW LEADER EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/LeaderBadgeShadowItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Designates the wearer as the highest ranking soldier amongst Mountain-Tier Clans this era.",
+            "name": "MOUNTAIN LEADER EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/LeaderBadgeMountainItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Designates the wearer as the highest ranking soldier amongst Moon-Tier Clans this era.",
+            "name": "MOON LEADER EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/LeaderBadgeMoonItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Designates the wearer as the highest ranking soldier amongst Ghost-Tier Clans this era.",
+            "name": "GHOST LEADER EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/LeaderBadgeGhostItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An emblem awarded to all those who helped destroy the Grineer toxin during the Cicero Crisis.",
+            "name": "CICERO CRISIS EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/JungleEventBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An emblem awarded to the Tenno who hunted down Alad V.",
+            "name": "EMBLEM OF THE HUNT",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/InfestationEventEmblemItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno who participated in the Mutalist Incursions event.",
+            "name": "TAR MUTALIST MOA EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/InfTacAlertSlowBombMoaAncientBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno who participated in the Mutalist Incursions event.",
+            "name": "BOILER EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/InfTacAlertPussAncientBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno who participated in the Mutalist Incursions event.",
+            "name": "SWARM MUTALIST MOA EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/InfTacAlertNaniteMoaAncientBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno who participated in the Mutalist Incursions event.",
+            "name": "BROOD MOTHER EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/InfTacAlertDiseasedAncientBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive Conclave emblem.",
+            "name": "SOLSTICE CONCLAVE EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/HolidayDeathMatchBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno for the contributions they made during the Breeding Grounds event.",
+            "name": "BREEDING GROUNDS EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/HiveSabotageEventBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "This emblem signifies the wearer as being a Master within the Tenno ranks.",
+            "name": "MASTER'S EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/FoundersBadgeMasterItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "This emblem signifies the wearer as being a Hunter within the Tenno ranks.",
+            "name": "HUNTER'S EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/FoundersBadgeHunterItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "This emblem signifies the wearer as being a Grand Master within the Tenno ranks.",
+            "name": "GRAND MASTER EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/FoundersBadgeGrandMasterItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "This emblem signifies the wearer as being a Disciple within the Tenno ranks.",
+            "name": "DISCIPLE'S EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/FoundersBadgeDiscipleItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An emblem awarded to all those who helped foil the machinations of Nef Anyo.",
+            "name": "FALSE PROFIT EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/FalseProfitEventBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Awarded to Tenno for their contribution to the Cryotic Front event.",
+            "name": "CRYOTIC FRONT EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/ExcavationEvenetBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An insignia awarded to the Tenno who proved themselves during Arid Fear event.",
+            "name": "ARID FEAR EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/CorpusVoidBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An insignia that projects a holographic image of the clan emblem. Requires your clan's Warlord to upload an image of the clan emblem.",
+            "name": "CLAN EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/ClanEmblemItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "The holographic interface on this emblem will update to display the rank achieved through exemplary dedication to Tactical Alerts.",
+            "name": "STRATOS EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/BountyHunterBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Item to be infused",
+            "name": "LotusWarframeCustomization",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/BaseEventBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "Stand apart from the crowd with this Ki'Teer original.",
+            "name": "KI'TEER SEKHARA",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/BaroQuantumBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An insignia that projects a holographic image of your alliance emblem. Requires a Warlord in the clan that created the alliance to upload an image of the alliance emblem.",
+            "name": "ALLIANCE EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/AllianceEmblemItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An insignia marking Tenno who aligned with the Grineer during the Gradivus Dilemma.",
+            "name": "GRADIVUS: LOYALTY EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/AggressionEventGrineerBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "An insignia marking Tenno who aligned with the Corpus during the Gradivus Dilemma.",
+            "name": "GRADIVUS: SACRIFICE EMBLEM",
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/AggressionEventCorpusBadgeItem"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive fur pattern for a Kavat",
+            "name": "ARGYL KAVAT FUR PATTERN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/XmasCatbrowSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive fur pattern for a Kavat",
+            "name": "SOLSTICE KAVAT FUR PATTERN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/SolsticeCatbrowFur"
+        },
+        {
+            "codexSecret": false,
+            "description": "A unique fur pattern for your Kavat.",
+            "name": "NEXUS KAVAT FUR PATTERN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/NexusCatbrowFur"
+        },
+        {
+            "codexSecret": false,
+            "description": "This decorative armor was forged for the Grineer Queens\u2019 royal Kavats.",
+            "name": "KUVA KAVAT ARMOR",
+            "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/GrnQueenCatbrowArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Morbidly festive armor fitted for a Kavat.",
+            "name": "WYSAR DAY OF THE DEAD KAVAT ARMOR",
+            "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/CatbrowArmorHalloweenA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Desert camouflage skin for the Vulkar.",
+            "name": "VULKAR DESERT-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Camo/VulkarCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "Desert camouflage skin for the Viper.",
+            "name": "VIPER DESERT-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Camo/ViperCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "Desert camouflage skin for the Sobek.",
+            "name": "SOBEK DESERT-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Camo/SobekCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "Desert camouflage skin for the Kraken.",
+            "name": "KRAKEN DESERT-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Camo/KrackenCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "Desert camouflage skin for the Gremlins.",
+            "name": "GREMLINS DESERT-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Camo/GrnAkimboPistolsCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "Desert camouflage skin for the Grakata.",
+            "name": "GRAKATA DESERT-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Camo/GrakataCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "Desert camouflage skin for the Gorgon.",
+            "name": "GORGON DESERT-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Camo/GorgonCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "Desert camouflage skin for the Twin Vipers.",
+            "name": "TWIN VIPERS DESERT-CAMO SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Atlas.",
+            "name": "ATLAS TARTARUS HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Brawler/BrawlerAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "An alternative helmet for the Atlas Warframe.",
+            "name": "ATLAS SHIKORO HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Brawler/BrawlerAlt2Helmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Valkyr Prime Warframe.",
+            "name": "VALKYR PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Berserker/ValkyrPrimeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Ceremonial ribbons, worn with pride.",
+            "name": "CHORDALLA PRIME",
+            "uniqueName": "/Lotus/Upgrades/Skins/Berserker/ValkyrPrimeDangles"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Valkyr Warframe.",
+            "name": "VALKYR IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Berserker/ValkyrAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Valkyr.",
+            "name": "VALKYR KARA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Berserker/ValkyrAltBHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Valkyr Warframe.",
+            "name": "VALKYR HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Berserker/BerserkerHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Before Alad V, before the experiments, there was Gersemi Valkyr. \r\n\r\n*Valkyr not included.",
+            "name": "VALKYR GERSEMI SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Berserker/BerserkerDeluxeSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "Remnants of the bonds that restrained the original Valkyr during her time in 'the lab'. A reminder to never forget the torment.",
+            "name": "VALKYR'S BONDS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Berserker/BerserkerDangles"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Valkyr.",
+            "name": "VALKYR BASTET HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Berserker/BerserkerBastetHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Standard issue helmet for Octavia.",
+            "name": "OCTAVIA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Bard/BardHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Octavia",
+            "name": "OCTAVIA CADENZA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Bard/BardAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive skin for the Scindo.",
+            "name": "SCINDO SOLSTICE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Axe/SolsticeScindo"
+        },
+        {
+            "codexSecret": false,
+            "description": "Replaces the edges of the Scindo with multiple Rubedo blades.",
+            "name": "SCINDO DAGGER-AXE SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Axe/DaggerAxe"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal Skin for the Saryn Warframe.",
+            "name": "SARYN IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/Asp/SarynAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Saryn Warframe.",
+            "name": "SARYN HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Hemlock Helmet for the Saryn Warframe.",
+            "name": "SARYN HEMLOCK HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspAltHelmetStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "Chlora Helmet for the Saryn Warframe.",
+            "name": "SARYN CHLORA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspAltHelmetBStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Saryn, and increases velocity of parkour maneuvers, but reduces Ability Duration.",
+            "name": "ARCANE CHLORA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspAltHelmetB"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Saryn, and increases Movement Speed, with a reduction to Health.",
+            "name": "ARCANE HEMLOCK HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A decorative breastplate for your Warframe.",
+            "name": "EOS CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetOneChestArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Default armor for the Banshee Prime Warframe.",
+            "name": "BANSHEE PRIME ARMOR",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/BansheePrimeArmLeftArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Default armor for the Banshee Warframe.",
+            "name": "BANSHEE ARMOR",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/BansheeArmLeftArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Decorative chest armor for your Warframe.",
+            "name": "EOS PRIME CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/VTEos/VTEosChestArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Broad swooping curves are the essence of the Nidina armor set.",
+            "name": "NIDINA LEG PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnArmorCurve/TnArmorCurveL"
+        },
+        {
+            "codexSecret": false,
+            "description": "Broad swooping curves are the essence of the Nidina armor set.",
+            "name": "NIDINA CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnArmorCurve/TnArmorCurveC"
+        },
+        {
+            "codexSecret": false,
+            "description": "Broad swooping curves are the essence of the Nidina armor set.",
+            "name": "NIDINA SHOULDER PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnArmorCurve/TnArmorCurveA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A decorative breastplate for your Warframe.",
+            "name": "EDO CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoChestArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A decorative breastplate for your Warframe.",
+            "name": "PRISMA DAEDALUS CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeChestArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Festive leg plates for your Warframe.",
+            "name": "SOLSTICE DAEDALUS KNEE PLATES",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SolsticeSetThreeLegArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive breastplate for your Warframe.",
+            "name": "SOLSTICE DAEDALUS CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SolsticeSetThreeChestArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Festive shoulder plates for your Warframe.",
+            "name": "SOLSTICE DAEDALUS SHOULDER PLATES",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SolsticeSetThreeArmArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A decorative breastplate for your Warframe.",
+            "name": "DAEDALUS CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SetThreeChestArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "This golden decorative armor honors master warriors long since forgotten.",
+            "name": "EDO PRIME CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetTwo/PrimeSetTwoChestArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Cast a shadow of pure menace.",
+            "name": "ACANTHUS PRIME LEG GUARD",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetThree/PrimeSetThreeL"
+        },
+        {
+            "codexSecret": false,
+            "description": "Cast a shadow of pure menace.",
+            "name": "ACANTHUS PRIME CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetThree/PrimeSetThreeC"
+        },
+        {
+            "codexSecret": false,
+            "description": "Cast a shadow of pure menace.",
+            "name": "ACANTHUS PRIME SHOULDER GUARD",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetThree/PrimeSetThreeA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Decorative leg armor for your Warframe.",
+            "name": "TARGIS PRIME GREAVES",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneLegArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Decorative chest armor for your Warframe.",
+            "name": "TARGIS PRIME CUIRASS",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneChestArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Decorative shoulder plates for your Warframe.",
+            "name": "TARGIS PRIME SHOULDER PLATES",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneArmArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Mesmerize enemies with Mirage Prime\u2019s signature armor.",
+            "name": "ATAVIST PRIME KNEE PLATES",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetMirage/PrimeSetMirageL"
+        },
+        {
+            "codexSecret": false,
+            "description": "Mesmerize enemies with Mirage Prime\u2019s signature armor.",
+            "name": "ATAVIST PRIME CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetMirage/PrimeSetMirageC"
+        },
+        {
+            "codexSecret": false,
+            "description": "Mesmerize enemies with Mirage Prime\u2019s signature armor.",
+            "name": "ATAVIST PRIME SHOULDER PLATES",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetMirage/PrimeSetMirageA"
+        },
+        {
+            "codexSecret": false,
+            "description": "The swooping lines of this prime armor evoke a ship at sea.",
+            "name": "SPRITSAIL PRIME LEG GUARD",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetFour/PrimeSetFourL"
+        },
+        {
+            "codexSecret": false,
+            "description": "The swooping lines of this prime armor evoke a ship at sea.",
+            "name": "SPRITSAIL PRIME CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetFour/PrimeSetFourC"
+        },
+        {
+            "codexSecret": false,
+            "description": "The swooping lines of this prime armor evoke a ship at sea.",
+            "name": "SPRITSAIL PRIME SHOULDER GUARD",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetFour/PrimeSetFourA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A decorative breastplate for your Warframe.",
+            "name": "ILIAC CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/InfestedFins/InfestedFinsChestArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A blood-red variant of this symbolic Grineer armor.",
+            "name": "HARKONAR WRAITH LEG ARMOR",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerTurbines/WraithTurbinesLegArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A blood-red variant of this symbolic Grineer armor.",
+            "name": "HARKONAR WRAITH CHEST ARMOR",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerTurbines/WraithTurbinesChestArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A blood-red variant of this symbolic Grineer armor.",
+            "name": "HARKONAR WRAITH ARM ARMOR",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerTurbines/WraithTurbinesArmArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "A decorative breastplate for your Warframe.",
+            "name": "HARKONAR CHEST GUARD",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerTurbines/GrineerTurbinesChestArmor"
+        },
+        {
+            "codexSecret": false,
+            "description": "Decorative leg armor for your Warframe.",
+            "name": "KUVA LEG PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerQueenArmour/GrineerQueenArmourL"
+        },
+        {
+            "codexSecret": false,
+            "description": "A decorative breastplate for your Warframe.",
+            "name": "KUVA CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerQueenArmour/GrineerQueenArmourC"
+        },
+        {
+            "codexSecret": false,
+            "description": "Decorative shoulder plates for your Warframe.",
+            "name": "KUVA SHOULDER PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerQueenArmour/GrineerQueenArmourA"
+        },
+        {
+            "codexSecret": false,
+            "description": "Morbidly festive leg plates for your Warframe.",
+            "name": "PORTA DAY OF THE DEAD LEG PLATES",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpCircleArmour/HalloweenCrpCircL"
+        },
+        {
+            "codexSecret": false,
+            "description": "A morbidly festive breastplate for your Warframe.",
+            "name": "PORTA DAY OF THE DEAD CHEST PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpCircleArmour/HalloweenCrpCircC"
+        },
+        {
+            "codexSecret": false,
+            "description": "Morbidly festive shoulder plates for your Warframe.",
+            "name": "PORTA DAY OF THE DEAD SHOULDER PLATE",
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpCircleArmour/HalloweenCrpCircA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A Salix Syandana adorned with a festive design.",
+            "name": "SALIX SOLSTICE SYANDANA",
+            "uniqueName": "/Lotus/Upgrades/Skins/Archer/WinterSolsticeSalix"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Nova.",
+            "name": "NOVA SLIPSTREAM HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/NovaSlipstreamHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Nova.",
+            "name": "NOVA QUANTUM HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/NovaQuantumHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Nova Prime Warframe.",
+            "name": "NOVA PRIME HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/NovaPrimeHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Ascend and become the legendary many-armed warrior of Asuri.",
+            "name": "NOVA ASURI SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/NovaDeluxeSuit"
+        },
+        {
+            "codexSecret": false,
+            "description": "The Immortal skin for the Nova Warframe.",
+            "name": "NOVA IMMORTAL SKIN",
+            "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/NovaAlternateSkin"
+        },
+        {
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Nova Warframe.",
+            "name": "NOVA HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/AntiHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "Flux Helmet for the Nova Warframe.",
+            "name": "NOVA FLUX HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/AntiAltHelmetStatless"
+        },
+        {
+            "codexSecret": false,
+            "description": "This helmet is worn by Nova, and increases duration of Aim Glide and Wall Latch, but reduces Health.",
+            "name": "ARCANE FLUX HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/AntiAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A uniquely-styled alternate helmet for Equinox.",
+            "name": "EQUINOX SOLSTICE HELMET",
+            "uniqueName": "/Lotus/Upgrades/Skins/Anima/AnimaAltHelmet"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive pattern for your Kubrow.",
+            "name": "NISTLEBRUSH PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternXmasB"
+        },
+        {
+            "codexSecret": false,
+            "description": "A festive pattern for your Kubrow.",
+            "name": "NART-DEER PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternXmasA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A unique fur pattern for your Kubrow.",
+            "name": "NEXUS FUR PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternPrimeTraderA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A striped fur pattern for your Kubrow.",
+            "name": "TIGROL FUR PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternI"
+        },
+        {
+            "codexSecret": false,
+            "description": "A fur pattern with striped markings.",
+            "name": "BRINDLE FUR PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternH"
+        },
+        {
+            "codexSecret": false,
+            "description": "A fur pattern with scattered spots.",
+            "name": "MOTTLED FUR PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternG"
+        },
+        {
+            "codexSecret": false,
+            "description": "A fur pattern with distinctive marking around the face.",
+            "name": "LOTUS FUR PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternF"
+        },
+        {
+            "codexSecret": false,
+            "description": "A spotted fur pattern for your Kubrow.",
+            "name": "MERLE FUR PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternE"
+        },
+        {
+            "codexSecret": false,
+            "description": "A fur pattern with distinctive marking around the face.",
+            "name": "DOMINO FUR PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternD"
+        },
+        {
+            "codexSecret": false,
+            "description": "A bold fur pattern for your Kubrow.",
+            "name": "HOUND FUR PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternC"
+        },
+        {
+            "codexSecret": false,
+            "description": "A patchy fur pattern for your Kubrow.",
+            "name": "PATCHY FUR PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternB"
+        },
+        {
+            "codexSecret": false,
+            "description": "A striped fur pattern for your Kubrow.",
+            "name": "STRIPED FUR PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternA"
+        },
+        {
+            "codexSecret": false,
+            "description": "A degenerated strain of the Helminth Charger.",
+            "name": "HELMINTH DEGENERATE PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/HelminthPetPatternClassic"
+        },
+        {
+            "codexSecret": false,
+            "description": "First silence, then the snapping of a twig, then death.",
+            "name": "UNDERBRUSH KUBROW PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/FeralKubrowPattern"
+        },
+        {
+            "codexSecret": false,
+            "description": "This mastiff can take it, and dish it out.",
+            "name": "DRAHK KUBROW PATTERN",
+            "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/DrahkKubrowPattern"
+        },
+        {
+            "codexSecret": false,
+            "description": "A kavat pattern ideal for the nighttime hunt.",
+            "name": "MOONLESS KAVAT PATTERN",
+            "uniqueName": "/Lotus/Types/Game/CatbrowPet/Patterns/FeralCatbrowPattern"
+        },
+        {
+            "codexSecret": false,
+            "description": "An ancient Syandana worn during Tenno purification meditation.",
+            "name": "CYCUTA PRIME SYANDANA",
+            "uniqueName": "/Lotus/Characters/Tenno/Accessory/Scarves/PrimeScarfD/Cloth/PrimeScarfDItem"
+        }
+    ]
+}

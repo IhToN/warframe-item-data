@@ -1,0 +1,92 @@
+{
+    "ExportKeys": [
+        {
+            "codexSecret": true,
+            "description": "",
+            "longDescription": "",
+            "name": "JORDAS GOLEM ASSASSINATE",
+            "parentName": "/Lotus/Types/Game/KeyItem",
+            "uniqueName": "/Lotus/Types/Keys/TestKeyErisBoss"
+        },
+        {
+            "codexSecret": true,
+            "description": "A Survival mission on board an Orokin Derelict ship",
+            "longDescription": "",
+            "name": "OROKIN DERELICT SURVIVAL",
+            "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+            "uniqueName": "/Lotus/Types/Keys/DerelictSurvivalKey"
+        },
+        {
+            "codexSecret": true,
+            "description": "A Sabotage mission on board an Orokin Derelict ship",
+            "longDescription": "",
+            "name": "OROKIN DERELICT SABOTAGE",
+            "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+            "uniqueName": "/Lotus/Types/Keys/DerelictSabotageKey"
+        },
+        {
+            "codexSecret": true,
+            "description": "An Assassination mission on board an Orokin Derelict ship",
+            "longDescription": "",
+            "name": "OROKIN DERELICT ASSASSINATE",
+            "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+            "uniqueName": "/Lotus/Types/Keys/DerelictGolemKey"
+        },
+        {
+            "codexSecret": true,
+            "description": "An Exterminate mission on board an Orokin Derelict ship",
+            "longDescription": "",
+            "name": "OROKIN DERELICT EXTERMINATE",
+            "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+            "uniqueName": "/Lotus/Types/Keys/DerelictExterminateKey"
+        },
+        {
+            "codexSecret": true,
+            "description": "An Endless Defense mission on board an Orokin Derelict ship",
+            "longDescription": "",
+            "name": "OROKIN DERELICT DEFENSE",
+            "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+            "uniqueName": "/Lotus/Types/Keys/DerelictDefenseKey"
+        },
+        {
+            "codexSecret": true,
+            "description": "A Capture mission on board an Orokin Derelict ship",
+            "longDescription": "",
+            "name": "OROKIN DERELICT CAPTURE",
+            "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+            "uniqueName": "/Lotus/Types/Keys/DerelictCaptureKey"
+        },
+        {
+            "codexSecret": true,
+            "description": "Jordas lied to us, he wasn't the last of his kind and now a new much larger Golem looms. Destroy this menace before it reproduces any further.\r\n\r\nThis is a key for a TRIAL mission, work with up to 8 Tenno in order to solve problems and defeat the enemy. This mission can be initiated from Eris.",
+            "longDescription": "",
+            "name": "<RAID> THE JORDAS VERDICT",
+            "parentName": "/Lotus/Types/Keys/RaidKeys/BaseRaidKey",
+            "uniqueName": "/Lotus/Types/Keys/RaidKeys/RaidGolemStage01KeyItem"
+        },
+        {
+            "codexSecret": true,
+            "description": "Vay Hek's Fomorian assault on our Relays was devastating but he failed to break us. Now we take the fight back to him. Now we exact justice.\r\n\r\nThis is a key for the Nightmare Mode of a TRIAL mission that has been designed to be very challenging for 8-players, and can be initiated from Earth.",
+            "longDescription": "",
+            "name": "<NIGHTMARE_RAID> THE LAW OF RETRIBUTION (NIGHTMARE)",
+            "parentName": "/Lotus/Types/Keys/RaidKeys/Raid01Stage01KeyItem",
+            "uniqueName": "/Lotus/Types/Keys/RaidKeys/Raid01Stage01NightmareKeyItem"
+        },
+        {
+            "codexSecret": true,
+            "description": "Vay Hek's Fomorian assault on our Relays was devastating but he failed to break us. Now we take the fight back to him. Now we exact justice.\r\n\r\nThis is a key for a TRIAL mission that has been designed to be challenging for 8-players, and can be initiated from Earth.",
+            "longDescription": "",
+            "name": "<RAID> THE LAW OF RETRIBUTION",
+            "parentName": "/Lotus/Types/Keys/RaidKeys/BaseRaidKey",
+            "uniqueName": "/Lotus/Types/Keys/RaidKeys/Raid01Stage01KeyItem"
+        },
+        {
+            "codexSecret": true,
+            "description": "Put an end to Alad V and his Mutalist experiments",
+            "longDescription": "",
+            "name": "MUTALIST ALAD V ASSASSINATE",
+            "parentName": "/Lotus/Types/Keys/TestKeyA",
+            "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey"
+        }
+    ]
+}
