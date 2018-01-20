@@ -1,7 +1,7 @@
 {
   "name": "warframe-item-data",
   "version": "0.0.1",
-  "description": "Warframe item data",
+  "description": "Use the latest information of Warframe game in your project",
   "main": "exports.js",
   "directories": {
     "test": "test"
