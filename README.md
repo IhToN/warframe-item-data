@@ -15,7 +15,7 @@ npm i -S https://github.com/IhToN/warframe-item-data.git
 ```
 
 ## Usage
-
+JavaScript
 ```javascript
 var itemData = require('warframe-item-data');
 var warframes = itemData.warframes;
@@ -25,6 +25,16 @@ var wfName = firstOne.name;
 var wfUniqueName = firstOne.uniqueName;
 ```
 
+TypeScript
+```typescript
+import * as ItemData from 'warframe-item-data';
+
+var itemThumbs = ItemData.itemThumbs
+for(let item of itemThumbs) {
+    console.log('Item Name: ' + item.name)
+    console.log('Item Thumb: ' + item.textureLocation)
+}
+```
 ## Available data and formatting
 
 JSON | Data Accessor | Description
