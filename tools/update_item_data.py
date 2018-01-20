@@ -40,7 +40,10 @@ for url in urls:
 
         if url[3] != 'Manifest':
             for elem in webJSON[url[3]]:
+                print(elem)
                 itemThumbs.append({'name': elem['name'], 'uniqueName': elem['uniqueName']})
+                if 'description' in elem:
+                    itemThumbs[-1].update({'description': elem['description']})
         else:
             manifest = webJSON[url[3]]
 
