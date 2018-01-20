@@ -2,6 +2,8 @@
 
 A repository of Warframe Items Data
 
+[![npm](https://img.shields.io/npm/v/warframe-item-data.svg)](https://www.npmjs.com/package/warframe-item-data) [![npm](https://img.shields.io/npm/dt/warframe-item-data.svg)](https://www.npmjs.com/package/warframe-item-data) [![npm](https://img.shields.io/npm/l/warframe-item-data.svg)](https://www.npmjs.com/package/warframe-item-data)
+
 ## Usage
 
 ```javascript
