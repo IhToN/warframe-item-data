@@ -21,6 +21,7 @@ JSON | Data Accessor | Description
 `drones.json` | `drones` | Stores extractos information.
 `flavour.json` | `flavour` | Stores colours, glyphs and animation sets.
 `gear.json` | `gear` | Stores gear items information.
+`itemThumbs.json` | `itemThumbs` | Relates item names with uniqueName and textureLocation
 `keys.json` | `keys` | Stores any kind of key information such as Derelict or Mission keys.
 `manifest.json` | `manifest` | Relates uniqueName and textureLocation
 `regions.json` | `regions` | Store the information related to Solar Nodes.

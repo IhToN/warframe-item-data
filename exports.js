@@ -2,6 +2,7 @@ const customs = require('./data/customs.json').ExportCustoms;
 const drones = require('./data/drones.json').ExportDrones;
 const flavour = require('./data/flavour.json').ExportFlavour;
 const gear = require('./data/gear.json').ExportGear;
+const itemThumbs = require('./data/itemThumbs.json');
 const keys = require('./data/keys.json').ExportKeys;
 const manifest = require('./data/manifest.json').Manifest;
 const regions = require('./data/regions.json').ExportRegions;
@@ -17,6 +18,7 @@ const en_US = {
     drones,
     flavour,
     gear,
+    itemThumbs,
     keys,
     manifest,
     regions,
@@ -34,6 +36,7 @@ module.exports = {
     drones,
     flavour,
     gear,
+    itemThumbs,
     keys,
     manifest,
     regions,
