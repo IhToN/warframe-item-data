@@ -4,6 +4,16 @@ A repository of Warframe Items Data
 
 [![npm](https://img.shields.io/npm/v/warframe-item-data.svg)](https://www.npmjs.com/package/warframe-item-data) [![npm](https://img.shields.io/npm/dt/warframe-item-data.svg)](https://www.npmjs.com/package/warframe-item-data) [![license](https://img.shields.io/github/license/IhToN/warframe-item-data.svg)](https://github.com/IhToN/warframe-item-data) [![](https://img.shields.io/github/issues-raw/IhToN/warframe-item-data.svg)](https://github.com/IhToN/warframe-item-data) [![GitHub last commit](https://img.shields.io/github/last-commit/IhToN/warframe-item-data.svg)](https://github.com/IhToN/warframe-item-data)
 
+**Published version:**
+```bash
+npm i -S warframe-item-data@latest
+```
+
+**Recommended version:**
+```bash
+npm i -S https://github.com/IhToN/warframe-item-data.git
+```
+
 ## Usage
 
 ```javascript
